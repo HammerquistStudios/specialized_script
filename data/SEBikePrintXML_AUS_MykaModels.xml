@@ -1,0 +1,417 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<root>
+<bikes>
+<categories>
+<category>
+<category_id>14MykaHT</category_id>
+<category_name>Myka</category_name>
+<products>
+<product>
+<product_id>14MYKAMYKAHTELITEDISC29</product_id>
+<display_name>Myka Elite Disc 29</display_name>
+<description>Built for lightweight performance with anatomical engineering and components for women, the Myka is the best-performing recreational mountain bike at a value everyone can appreciate. Myka Elite Disc 29er component highlights include an 80mm-travel SR Suntour fork, Tektro hydraulic disc brakes and Specialized Fast Trak Sport tyres.</description>
+<bullets><bullet>Fully butted A1 Premium Aluminium frame with Women's Recreational XC 29er Geometry, low standover, optimised stack and reach for a confident and lightweight ride</bullet>
+<bullet>80mm smooth-travel SR Suntour fork with preload adjustment and custom women's spring weights delivers size-appropriate tunability for varying terrain</bullet>
+<bullet>SR Suntour 9-speed crankset with Shimano Alivio 9-speed rear derailleur for crisp shifting</bullet>
+<bullet>Tektro hydraulic disc brakes with women's shorter reach levers assure precise braking and durability</bullet>
+<bullet>Women's Body Geometry Riva Plus saddle features a women's cutout and plush seating area for all-day riding comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>81514-4202	MYKA HT ELITE DISC 29	BLK/HYP GRN	S</sku>
+<sku>81514-4203			M</sku>
+<sku>81514-4204			L</sku>
+<sku>81514-4302	MYKA HT ELITE DISC 29	WHT/CHAR/FLORED	S</sku>
+<sku>81514-4303			M</sku>
+<sku>81514-4304			L</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized Myka A1 Premium Aluminium, Women's Recreational XC 29er Geometry and tubesets, fully butted, double ORE downtube, externally relieved headtube, forged dropouts w/ replaceable alloy hanger</frame>
+<fork>FORK	SR Suntour XCM-LO 29", hydraulic damping w/ lockout, custom women's coil/MCU spring, 1-1/8" steel steerer, alloy disc only post-mount lower, 30mm Hi-Ten stanchion, preload adj., 80mm travel</fork>
+<headset>HEADSET	1-1/8" threadless, loose ball</headset>
+<stem>STEM	Specialized 3D forged alloy, 4-bolt clamp, 6-degree rise, 31.8mm</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, double-butted 6061 alloy, 660mm wide, 10-degree backsweep, 4-degree upsweep, 31.8mm</handlebars>
+<grips>GRIPS	Specialized Women's Myka, dual-density, Kraton</grips>
+<front_brake>FRONT BRAKE	Tektro HD-M330, hydraulic disc, dual piston, tooled reach adj., TR-4 Light Wave rotor, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Tektro HD-M330, hydraulic disc, dual piston, tooled reach adj., TR-4 Light Wave rotor, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Tektro HD-M330, hydraulic lever, women's shorter reach, tooled reach adj.</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Acera, 9-speed, 34.9mm clamp, high-mount, bottom-swing</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Alivio, 9-speed, SGS cage</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano Acera, 9-speed Rapidfire Plus, w/ optical display</shift_levers>
+<cassette>CASSETTE	Shimano HG-20, 9-speed, 11-34</cassette>
+<chain>CHAIN	KMC X9</chain>
+<crankset>CRANKSET	SR Suntour XCR, 9-speed, Octalink, replaceable rings</crankset>
+<chainrings>CHAINRINGS	44/32/22, steel</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Shimano, Octalink spline, cartridge bearings, 73mm shell</bottom_bracket>
+<pedals>PEDALS	Composite platform, w/ reflectors, 9/16"</pedals>
+<rims>RIMS	Stout Disc 29", alloy double-wall, 26mm, pin joint, 36h</rims>
+<front_hub>FRONT HUB	Specialized disc, alloy, Hi Lo flange, cartridge bearings, steel axle, QR, 36h</front_hub>
+<rear_hub>REAR HUB	Specialized disc, alloy, Hi Lo flange, cartridge bearings, steel axle, steel cassette body, QR, 36h</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Fast Trak Sport, 29x2.0", wire bead, 60TPI</front_tire>
+<rear_tire>REAR TYRE	Specialized Fast Trak Sport, 29x2.0", wire bead, 60TPI</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Plus Women's, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 30.9mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 34.9mm, QR, nylon washer, anti-corrosion bolt</seat_binder></specs></skus_specs>
+<colorways><colorway_name>BLK/HYP GRN</colorway_name>
+<colorway_name>WHT/CHAR/FLORED</colorway_name></colorways>
+<images><image href="file:///81514-42_MYKA HT_ELITE DISC 29_BLK HYP GRN.jpg"/>
+<image href="file:///81514-43_MYKA HT_ELITE DISC 29_WHT CHAR FLORED.jpg"/></images>
+<geos><geo_heading><geo_name>MYKA HT 29</geo_name>
+<geo_size>Size	15.0	17.0	19.0</geo_size></geo_heading>
+<geo><seat_tube_length_center_to_top>Seat Tube Length, Center to Top (mm)	381 	432 	483 </seat_tube_length_center_to_top>
+<top_tube_length_horiz>Top Tube Length (Horizontal) (mm)	558 	575 	600 </top_tube_length_horiz>
+<top_tube_length_actual>Top Tube Length (Actual) (mm)	572 	571 	587 </top_tube_length_actual>
+<chainstay_length>Chainstay Length (mm)	450 	450 	450 </chainstay_length>
+<bottom_bracket_drop>Bottom Bracket Drop (mm)	64.5	64.5	64.5</bottom_bracket_drop>
+<bottom_bracket_height>Bottom Bracket Height (mm)	309 	309 	309 </bottom_bracket_height>
+<head_tube_length>Head Tube Length (mm)	100 	110 	120 </head_tube_length>
+<head_tube_angle>Head Tube Angle (deg)	70 	70.5	70.5</head_tube_angle>
+<seat_tube_angle_actual>Seat Tube Angle (Actual) (deg)	73 	73 	73 </seat_tube_angle_actual>
+<seat_tube_angle_effective>Seat Tube Angle (Effective) (deg)	73.5	73.5	73.5</seat_tube_angle_effective>
+<wheel_base>Wheel Base (mm)	1070 	1082 	1108 </wheel_base>
+<stack>Stack (mm)	607 	618 	628 </stack>
+<reach>Reach (mm)	378 	392 	414 </reach>
+<standover_height>Standover Height (mm)	694 	738 	762 </standover_height>
+<handlebar_width>Handlebar Width (mm)	660 	680 	680 </handlebar_width>
+<stem_length>Stem Length (mm)	75 	75 	90 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	175 </crank_length>
+<seatpost_length>Seatpost Length (mm)	350 	350 	400 </seatpost_length></geo></geos>
+</product>
+<product>
+<product_id>14MYKAMYKAHTSPORTDISC29</product_id>
+<display_name>Myka Sport Disc 29</display_name>
+<description>Built for lightweight performance with anatomical engineering and components for women, the Myka is the best-performing recreational mountain bike at a value everyone can appreciate. Myka Sport Disc component highlights include an 80mm-travel SR Suntour fork, Tektro disc brakes and Shimano Altus trigger shifters.</description>
+<bullets><bullet>A1 Premium Aluminium frame with Women's Recreational XC 29er Geometry and low standover for a confident and lightweight ride</bullet>
+<bullet>80mm smooth-travel SR Suntour fork with preload adjustment, lockout, and custom women's spring weights delivers size-appropriate tunability for varying terrain</bullet>
+<bullet>Reliable SR Suntour XCT crankset with chainguard for added protection; Shimano Acera rear derailleur with 8-speed Sunrace cassette for crisp shifting</bullet>
+<bullet>Tektro hydraulic disc brakes with women's levers assure precise and worry-free braking</bullet>
+<bullet>Women's Body Geometry Riva Plus saddle features a women's cutout and plush seating area for all-day riding comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>81514-6302	MYKA HT SPORT DISC 29	CHAR/TEAL	S</sku>
+<sku>81514-6303			M</sku>
+<sku>81514-6304			L</sku>
+<sku>81514-6402	MYKA HT SPORT DISC 29	ORG/WHT	S</sku>
+<sku>81514-6403			M</sku>
+<sku>81514-6404			L</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized Myka A1 Premium Aluminium, Women's Recreational XC 29er Geometry and tubesets, forged dropouts w/ replaceable alloy hanger</frame>
+<fork>FORK	SR Suntour XCT-MLO 29", custom women's coil/MCU spring, 1-1/8" steel steerer, mechanical lockout w/ preload adj., 28mm steel stanchions, post-mount disc, 80mm travel</fork>
+<headset>HEADSET	1-1/8" threadless, loose ball</headset>
+<stem>STEM	Specialized alloy, 4-bolt clamp, 10-degree rise, 25.4mm, anti-corrosion hardware</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, alloy, 640mm/660mm wide, 8-degree backsweep, 4-degree upsweep, 25.4mm</handlebars>
+<grips>GRIPS	Specialized Women's Myka, dual-density, Kraton</grips>
+<front_brake>FRONT BRAKE	Tektro HD-M330, hydraulic disc, dual piston, tooled reach adj., TR-4 Light Wave rotor, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Tektro HD-M330, hydraulic disc, dual piston, tooled reach adj., TR-4 Light Wave rotor, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Tektro HD-M330, hydraulic lever, women's shorter reach, tooled reach adj.</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Altus, 8-speed, 34.9mm clamp, low-mount, top-swing, dual-pull</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Acera, 9-speed, SGS Cage</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano Altus, 8-speed Rapidfire Plus, w/ optical display</shift_levers>
+<cassette>CASSETTE	Sunrace, 8-speed, 11-34</cassette>
+<chain>CHAIN	KMC X8</chain>
+<crankset>CRANKSET	SR Suntour XCT, 8-speed, square taper spindle</crankset>
+<chainrings>CHAINRINGS	42/32/22, steel</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Square taper, cartridge bearings, 68mm shell</bottom_bracket>
+<pedals>PEDALS	Composite platform, w/ reflectors, 9/16"</pedals>
+<rims>RIMS	Specialized Disc 29", alloy double-wall, 25mm, pin joint, 36h</rims>
+<front_hub>FRONT HUB	Disc, alloy, Hi Lo flange, double-sealed, loose ball, steel axle, QR, 36h</front_hub>
+<rear_hub>REAR HUB	Disc, alloy, Hi Lo flange, double-sealed, loose ball, steel axle, steel cassette body, QR, 36h</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Fast Trak Sport, 29x2.0", wire bead, 40TPI</front_tire>
+<rear_tire>REAR TYRE	Specialized Fast Trak Sport, 29x2.0", wire bead, 40TPI</rear_tire>
+<inner_tubes>INNER TUBES	Standard Schrader valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Plus Women's, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 30.9mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 34.9mm, QR, nylon washer, anti-corrosion bolt</seat_binder></specs></skus_specs>
+<colorways><colorway_name>CHAR/TEAL</colorway_name>
+<colorway_name>ORG/WHT</colorway_name></colorways>
+<images><image href="file:///81514-63_MYKA HT_SPORT DISC 29_CHAR TEAL.jpg"/>
+<image href="file:///81514-64_MYKA HT_SPORT DISC 29_ORG WHT.jpg"/></images>
+<geos><geo_heading><geo_name>MYKA HT 29</geo_name>
+<geo_size>Size	15.0	17.0	19.0</geo_size></geo_heading>
+<geo><seat_tube_length_center_to_top>Seat Tube Length, Center to Top (mm)	381 	432 	483 </seat_tube_length_center_to_top>
+<top_tube_length_horiz>Top Tube Length (Horizontal) (mm)	558 	575 	600 </top_tube_length_horiz>
+<top_tube_length_actual>Top Tube Length (Actual) (mm)	572 	571 	587 </top_tube_length_actual>
+<chainstay_length>Chainstay Length (mm)	450 	450 	450 </chainstay_length>
+<bottom_bracket_drop>Bottom Bracket Drop (mm)	64.5	64.5	64.5</bottom_bracket_drop>
+<bottom_bracket_height>Bottom Bracket Height (mm)	309 	309 	309 </bottom_bracket_height>
+<head_tube_length>Head Tube Length (mm)	100 	110 	120 </head_tube_length>
+<head_tube_angle>Head Tube Angle (deg)	70 	70.5	70.5</head_tube_angle>
+<seat_tube_angle_actual>Seat Tube Angle (Actual) (deg)	73 	73 	73 </seat_tube_angle_actual>
+<seat_tube_angle_effective>Seat Tube Angle (Effective) (deg)	73.5	73.5	73.5</seat_tube_angle_effective>
+<wheel_base>Wheel Base (mm)	1070 	1082 	1108 </wheel_base>
+<stack>Stack (mm)	607 	618 	628 </stack>
+<reach>Reach (mm)	378 	392 	414 </reach>
+<standover_height>Standover Height (mm)	694 	738 	762 </standover_height>
+<handlebar_width>Handlebar Width (mm)	660 	680 	680 </handlebar_width>
+<stem_length>Stem Length (mm)	75 	75 	90 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	175 </crank_length>
+<seatpost_length>Seatpost Length (mm)	350 	350 	400 </seatpost_length></geo></geos>
+</product>
+<product>
+<product_id>14MYKAMYKAHTDisc29</product_id>
+<display_name>Myka Disc 29</display_name>
+<description>Built for lightweight performance with anatomical engineering and components for women, the Myka is the best-performing recreational mountain bike at a value everyone can appreciate. Myka component highlights include an 80mm-travel SR Suntour fork, Tektro disc brakes and Shimano trigger shifters.</description>
+<bullets><bullet>A1 Premium Aluminium frame with Women's Recreational XC 29er Geometry and low standover for a confident and lightweight ride</bullet>
+<bullet>80mm smooth-travel SR Suntour fork with preload adjustment, lockout, and custom women's spring weights delivers size-appropriate tunability for varying terrain</bullet>
+<bullet>Shimano Altus 8-speed rear derailleur with Sunrace 8-speed cassette for crisp shifting</bullet>
+<bullet>Tektro Novela mechanical disc brakes with women's shorter reach levers assure precise braking and durability</bullet>
+<bullet>Women's Body Geometry Riva Plus saddle features a women's cutout and plush seating area for all-day riding comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>81514-7502	MYKA HT DISC 29	DK TEAL/WHT	S</sku>
+<sku>81514-7503			M</sku>
+<sku>81514-7504			L</sku>
+<sku>81514-7602	MYKA HT DISC 29	WHT/MOTO GRN	S</sku>
+<sku>81514-7603			M</sku>
+<sku>81514-7604			L</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized Myka A1 Premium Aluminium, Women's Recreational XC 29er Geometry and tubesets, forged dropouts w/ replaceable alloy hanger</frame>
+<fork>FORK	SR Suntour XCT-MLO 29", custom women's coil/MCU spring, 1-1/8" steel steerer, mechanical lockout w/ preload adj., 28mm steel stanchions, post-mount disc, 80mm travel</fork>
+<headset>HEADSET	1-1/8" threadless, loose ball</headset>
+<stem>STEM	Specialized alloy, 4-bolt clamp, 10-degree rise, 25.4mm, anti-corrosion hardware</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, alloy, 620mm/640mm wide, 8-degree backsweep, 4-degree upsweep, 25.4mm</handlebars>
+<grips>GRIPS	Specialized Women's Myka, dual-density, Kraton</grips>
+<front_brake>FRONT BRAKE	Tektro Novela, mechanical disc, dual pad angle adjustment, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Tektro Novela, mechanical disc, dual pad angle adjustment, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Included w/ shifter</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Tourney, 7/8-speed, 34.9mm clamp, low-mount, top-swing, dual-pull</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Altus, 8-speed, SGS Cage</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano ST-EF51, 8-speed, EZ Fire Plus</shift_levers>
+<cassette>CASSETTE	Sunrace, 8-speed, 11-34</cassette>
+<chain>CHAIN	KMC X8</chain>
+<crankset>CRANKSET	Alloy, square taper, w/ chainguard</crankset>
+<chainrings>CHAINRINGS	42/34/24, steel</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Square taper, cartridge bearings, 68mm shell</bottom_bracket>
+<pedals>PEDALS	Composite platform, w/ reflectors, 9/16"</pedals>
+<rims>RIMS	Specialized Disc 29", alloy double-wall, 25mm, pin joint, 36h</rims>
+<front_hub>FRONT HUB	Disc, alloy, Hi Lo flange, double-sealed, loose ball, steel axle, QR, 36h</front_hub>
+<rear_hub>REAR HUB	Disc, alloy, Hi Lo flange, double-sealed, loose ball, steel axle, steel cassette body, QR, 36h</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Fast Trak Sport, 29x2.0", wire bead, 40TPI</front_tire>
+<rear_tire>REAR TYRE	Specialized Fast Trak Sport, 29x2.0", wire bead, 40TPI</rear_tire>
+<inner_tubes>INNER TUBES	Standard Schrader valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Plus Women's, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 30.9mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 34.9mm, QR, nylon washer, anti-corrosion bolt</seat_binder></specs></skus_specs>
+<colorways><colorway_name>DK TEAL/WHT</colorway_name>
+<colorway_name>WHT/MOTO GRN</colorway_name></colorways>
+<images><image href="file:///81514-75_MYKA HT_DISC 29_DK TEAL WHT.jpg"/>
+<image href="file:///81514-76_MYKA HT_DISC 29_WHT MOTO GRN.jpg"/></images>
+<geos><geo_heading><geo_name>MYKA HT 29</geo_name>
+<geo_size>Size	15.0	17.0	19.0</geo_size></geo_heading>
+<geo><seat_tube_length_center_to_top>Seat Tube Length, Center to Top (mm)	381 	432 	483 </seat_tube_length_center_to_top>
+<top_tube_length_horiz>Top Tube Length (Horizontal) (mm)	558 	575 	600 </top_tube_length_horiz>
+<top_tube_length_actual>Top Tube Length (Actual) (mm)	572 	571 	587 </top_tube_length_actual>
+<chainstay_length>Chainstay Length (mm)	450 	450 	450 </chainstay_length>
+<bottom_bracket_drop>Bottom Bracket Drop (mm)	64.5	64.5	64.5</bottom_bracket_drop>
+<bottom_bracket_height>Bottom Bracket Height (mm)	309 	309 	309 </bottom_bracket_height>
+<head_tube_length>Head Tube Length (mm)	100 	110 	120 </head_tube_length>
+<head_tube_angle>Head Tube Angle (deg)	70 	70.5	70.5</head_tube_angle>
+<seat_tube_angle_actual>Seat Tube Angle (Actual) (deg)	73 	73 	73 </seat_tube_angle_actual>
+<seat_tube_angle_effective>Seat Tube Angle (Effective) (deg)	73.5	73.5	73.5</seat_tube_angle_effective>
+<wheel_base>Wheel Base (mm)	1070 	1082 	1108 </wheel_base>
+<stack>Stack (mm)	607 	618 	628 </stack>
+<reach>Reach (mm)	378 	392 	414 </reach>
+<standover_height>Standover Height (mm)	694 	738 	762 </standover_height>
+<handlebar_width>Handlebar Width (mm)	660 	680 	680 </handlebar_width>
+<stem_length>Stem Length (mm)	75 	75 	90 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	175 </crank_length>
+<seatpost_length>Seatpost Length (mm)	350 	350 	400 </seatpost_length></geo></geos>
+</product>
+<product>
+<product_id>14MYKAMYKAHT29INT</product_id>
+<display_name>Myka 29</display_name>
+<description>Built for lightweight efficiency with anatomical engineering and components for women, the Myka is the best-performing recreational mountain bike at a value everyone can appreciate. Myka component highlights include an 80mm-travel SR Suntour fork and Shimano trigger shifters.</description>
+<bullets><bullet>A1 Premium Aluminium frame with Women's Recreational XC 29er Geometry and low standover for a confident and lightweight ride</bullet>
+<bullet>75mm smooth-travel SR Suntour fork with preload adjustment and custom women's spring weights delivers size-appropriate tunability for varying terrain</bullet>
+<bullet>Shimano Altus 7-speed rear derailleur for crisp shifting</bullet>
+<bullet>Women's Myka dual-density grips for maximum comfort and control</bullet>
+<bullet>Women's Body Geometry Riva Plus saddle features a women's cutout and plush seating area for all-day riding comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>B1514-7102	MYKA HT 29 INT	WHT/SIL/SEA	S</sku>
+<sku>B1514-7103			M</sku>
+<sku>B1514-7104			L</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized Myka A1 Premium Aluminium, Women's Recreational XC 29er Geometry and tubesets, forged dropouts w/ replaceable alloy hanger</frame>
+<fork>FORK	SR Suntour M3020 29", custom women's coil/MCU spring, steel steerer, preload adj., 1pc. alloy V-brake only lower, 25.4mm steel stanchions, mini boot seals, 75mm travel</fork>
+<headset>HEADSET	1-1/8" threadless, loose ball</headset>
+<stem>STEM	Specialized alloy, 4-bolt clamp, 10-degree rise, 25.4mm, anti-corrosion hardware</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, alloy, 640mm/660mm wide, 8-degree backsweep, 4-degree upsweep, 25.4mm</handlebars>
+<grips>GRIPS	Specialized Women's Myka, dual-density, Kraton</grips>
+<front_brake>FRONT BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</front_brake>
+<rear_brake>REAR BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</rear_brake>
+<brake_levers>BRAKE LEVERS	Included w/ shifter</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Tourney, 7/8-speed, 34.9mm clamp, low-mount, top-swing, dual-pull</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Altus, 7-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano ST-EF51, 7-speed trigger, integrated brake lever, w/ optical display</shift_levers>
+<cassette>CASSETTE	Sunrace, 7-speed, 12-32</cassette>
+<chain>CHAIN	KMC X8</chain>
+<crankset>CRANKSET	Alloy, square taper, w/ chainguard</crankset>
+<chainrings>CHAINRINGS	42/34/24, steel</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Square taper, cartridge bearings, 68mm shell</bottom_bracket>
+<pedals>PEDALS	Composite platform, w/ reflectors, 9/16"</pedals>
+<rims>RIMS	V-brake 29", alloy double-wall, CNC braking surface, 25mm, pin joint, 36h</rims>
+<front_hub>FRONT HUB	V-brake, alloy, sealed, loose ball, steel axle, QR, 36h</front_hub>
+<rear_hub>REAR HUB	Disc, alloy, double-sealed, loose ball, steel axle, steel cassette body, QR, 36h</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Fast Trak Sport, 29x2.0", wire bead, 40TPI</front_tire>
+<rear_tire>REAR TYRE	Specialized Fast Trak Sport, 29x2.0", wire bead, 40TPI</rear_tire>
+<inner_tubes>INNER TUBES	Standard Schrader valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Plus Women's, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 30.9mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 34.9mm, QR, nylon washer, anti-corrosion bolt</seat_binder></specs></skus_specs>
+<colorways><colorway_name>WHT/SIL/SEA</colorway_name></colorways>
+<images><image href="file:///B1514-71_MYKA HT_29 INT_WHT SIL SEA.jpg"/></images>
+<geos><geo_heading><geo_name>MYKA HT 29</geo_name>
+<geo_size>Size	15.0	17.0	19.0</geo_size></geo_heading>
+<geo><seat_tube_length_center_to_top>Seat Tube Length, Center to Top (mm)	381 	432 	483 </seat_tube_length_center_to_top>
+<top_tube_length_horiz>Top Tube Length (Horizontal) (mm)	558 	575 	600 </top_tube_length_horiz>
+<top_tube_length_actual>Top Tube Length (Actual) (mm)	572 	571 	587 </top_tube_length_actual>
+<chainstay_length>Chainstay Length (mm)	450 	450 	450 </chainstay_length>
+<bottom_bracket_drop>Bottom Bracket Drop (mm)	64.5	64.5	64.5</bottom_bracket_drop>
+<bottom_bracket_height>Bottom Bracket Height (mm)	309 	309 	309 </bottom_bracket_height>
+<head_tube_length>Head Tube Length (mm)	100 	110 	120 </head_tube_length>
+<head_tube_angle>Head Tube Angle (deg)	70 	70.5	70.5</head_tube_angle>
+<seat_tube_angle_actual>Seat Tube Angle (Actual) (deg)	73 	73 	73 </seat_tube_angle_actual>
+<seat_tube_angle_effective>Seat Tube Angle (Effective) (deg)	73.5	73.5	73.5</seat_tube_angle_effective>
+<wheel_base>Wheel Base (mm)	1070 	1082 	1108 </wheel_base>
+<stack>Stack (mm)	607 	618 	628 </stack>
+<reach>Reach (mm)	378 	392 	414 </reach>
+<standover_height>Standover Height (mm)	694 	738 	762 </standover_height>
+<handlebar_width>Handlebar Width (mm)	660 	680 	680 </handlebar_width>
+<stem_length>Stem Length (mm)	75 	75 	90 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	175 </crank_length>
+<seatpost_length>Seatpost Length (mm)	350 	350 	400 </seatpost_length></geo></geos>
+</product>
+<product>
+<product_id>14MYKAMYKAHT26INT</product_id>
+<display_name>Myka 26</display_name>
+<description>Built for lightweight efficiency with anatomical engineering and components for women, the Myka is the best-performing recreational mountain bike at a value everyone can appreciate. Myka component highlights include an 80mm-travel SR Suntour fork and Shimano trigger shifters.</description>
+<bullets><bullet>A1 Premium Aluminium frame with Women's Recreational XC Geometry and low standover for a confident and lightweight ride</bullet>
+<bullet>75mm smooth-travel SR Suntour fork with preload adjustment and custom women's spring weights delivers size-appropriate tunability for varying terrain</bullet>
+<bullet>Shimano Altus 7-speed rear derailleur for crisp shifting</bullet>
+<bullet>Women's Myka dual-density grips for maximum comfort and control</bullet>
+<bullet>Women's Body Geometry Riva Plus saddle features a women's cutout and plush seating area for all-day riding comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>B1514-7801	MYKA HT INT	WHT/SIL/SEA	XS</sku>
+<sku>B1514-7802			S</sku>
+<sku>B1514-7803			M</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized Myka A1 Premium Aluminium, Women's Recreational XC Geometry and tubesets, forged dropouts w/ replaceable alloy hanger</frame>
+<fork>FORK	SR Suntour M3020 26", custom women's coil/MCU spring, steel steerer, preload adj., 1pc. alloy V-brake only lower, 25.4mm steel stanchions, mini boot seals, 75mm travel</fork>
+<headset>HEADSET	1-1/8" threadless, loose ball</headset>
+<stem>STEM	Specialized alloy, 4-bolt clamp, 10-degree rise, 25.4mm, anti-corrosion hardware</stem>
+<handlebars>HANDLEBARS	Specialized riser bar, Hi-Ten steel, 620mm/640mm wide, 8-degree backsweep, 25.4mm</handlebars>
+<grips>GRIPS	Specialized Women's Myka, dual-density, Kraton</grips>
+<front_brake>FRONT BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</front_brake>
+<rear_brake>REAR BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</rear_brake>
+<brake_levers>BRAKE LEVERS	Included w/ shifter</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Tourney, 7/8-speed, 34.9mm clamp, low-mount, top-swing, dual-pull</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Altus, 7-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano ST-EF51, 7-speed trigger, integrated brake lever, w/ optical display</shift_levers>
+<cassette>CASSETTE	Shimano, 7-speed, 12-32</cassette>
+<chain>CHAIN	KMC X8</chain>
+<crankset>CRANKSET	Alloy, square taper, w/ chainguard</crankset>
+<chainrings>CHAINRINGS	42/34/24, steel</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Square taper, cartridge bearings, 68mm shell</bottom_bracket>
+<pedals>PEDALS	Composite platform, w/ reflectors, 9/16"</pedals>
+<rims>RIMS	V-brake 26", alloy double-wall, CNC braking surface, 25mm, pin joint, 32h</rims>
+<front_hub>FRONT HUB	V-brake, alloy, sealed, loose ball, steel axle, QR, 32h</front_hub>
+<rear_hub>REAR HUB	V-brake, alloy, sealed, loose ball, steel axle, QR, 32h</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Fast Trak Sport, 26x2.0", wire bead, 40TPI</front_tire>
+<rear_tire>REAR TYRE	Specialized Fast Trak Sport, 26x2.0", wire bead, 40TPI</rear_tire>
+<inner_tubes>INNER TUBES	Standard Schrader valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Plus Women's, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 30.9mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 34.9mm, QR, nylon washer, anti-corrosion bolt</seat_binder></specs></skus_specs>
+<colorways><colorway_name>WHT/SIL/SEA</colorway_name></colorways>
+<images><image href="file:///B1514-78_MYKA HT_INT_WHT SIL SEA.jpg"/>
+<image href="file:///B1514-79_MYKA HT_INT_BLK CYAN.jpg"/></images>
+<geos><geo_heading><geo_name>MYKA HT 26</geo_name>
+<geo_size>Size	13.0	15.0	17.0	19.0</geo_size></geo_heading>
+<geo><seat_tube_length_center_to_top>Seat Tube Length, Center to Top (mm)	330 	381 	432 	483 </seat_tube_length_center_to_top>
+<top_tube_length_horiz>Top Tube Length (Horizontal) (mm)	525 	545 	575 	595 </top_tube_length_horiz>
+<top_tube_length_actual>Top Tube Length (Actual) (mm)	515 	526 	550 	570 </top_tube_length_actual>
+<chainstay_length>Chainstay Length (mm)	426 	426 	426 	426 </chainstay_length>
+<bottom_bracket_drop>Bottom Bracket Drop (mm)	36 	36 	36 	36 </bottom_bracket_drop>
+<bottom_bracket_height>Bottom Bracket Height (mm)	300 	300 	300 	300 </bottom_bracket_height>
+<head_tube_length>Head Tube Length (mm)	100 	100 	120 	130 </head_tube_length>
+<head_tube_angle>Head Tube Angle (deg)	69.5	69.5	69.5	69.5</head_tube_angle>
+<seat_tube_angle>Seat Tube Angle (deg)	74 	74 	73 	73 </seat_tube_angle>
+<wheel_base>Wheel Base (mm)	1027 	1047 	1069 	1089 </wheel_base>
+<stack>Stack (mm)	566 	566 	604 	613 </stack>
+<reach>Reach (mm)	362 	382 	390 	407 </reach>
+<standover_height>Standover Height (mm)	650 	688 	725 	762 </standover_height>
+<handlebar_width>Handlebar Width (mm)	640 	640 	660 	680 </handlebar_width>
+<stem_length>Stem Length (mm)	60 	75 	75 	90 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	170 	175 </crank_length>
+<seatpost_length>Seatpost Length (mm)	300 	350 	350 	400 </seatpost_length></geo></geos>
+</product>
+<product>
+<product_id>14MYKAMYKAHTSTEPTHROUGHINT</product_id>
+<display_name>Myka Step Through</display_name>
+<description>Built for lightweight efficiency with anatomical engineering and components for women, the Myka is the best-performing recreational mountain bike at a value everyone can appreciate. Myka component highlights include an 80mm-travel SR Suntour fork and Shimano trigger shifters.</description>
+<bullets><bullet>A1 Premium Aluminium step-through frame with Women's Recreational XC Geometry and low entry for a confident and lightweight ride</bullet>
+<bullet>75mm smooth-travel SR Suntour fork with preload adjustment and custom women's spring weights delivers size-appropriate tunability for varying terrain</bullet>
+<bullet>Specialized Fast Trak Sport tyres use a reduced knob height for lower rolling resistance, but have plenty of grip for confidence on the trail</bullet>
+<bullet>Reliable triple crankset with chainguard for added protection; Shimano Altus 7-speed rear derailleur for crisp shifting</bullet>
+<bullet>Women's Body Geometry Riva Plus saddle features a women's cutout and plush seating area for all-day riding comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>B1514-9201	MYKA HT ST INT	PRL WHT/PUR	XS</sku>
+<sku>B1514-9202			S</sku>
+<sku>B1514-9203			M</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized Myka A1 Premium Aluminium Step Through, Women's Recreational XC Geometry and tubesets, forged dropouts w/ replaceable alloy hanger</frame>
+<fork>FORK	SR Suntour M3020 26", custom women's coil/MCU spring, steel steerer, preload adj., 1pc. alloy V-brake only lower, 25.4mm steel stanchions, mini boot seals, 75mm travel</fork>
+<headset>HEADSET	1-1/8" threadless, loose ball</headset>
+<stem>STEM	Specialized alloy, 4-bolt clamp, 10-degree rise, 25.4mm, anti-corrosion hardware</stem>
+<handlebars>HANDLEBARS	Specialized riser bar, Hi-Ten steel, 620mm/640mm wide, 8-degree backsweep, 25.4mm</handlebars>
+<grips>GRIPS	Specialized Women's Myka, dual-density, Kraton</grips>
+<front_brake>FRONT BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</front_brake>
+<rear_brake>REAR BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</rear_brake>
+<brake_levers>BRAKE LEVERS	Included w/ shifter</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Tourney, 7/8-speed, 34.9mm clamp, low-mount, top-swing, dual-pull</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Altus, 7-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano ST-EF51, 7-speed trigger, integrated brake lever, w/ optical display</shift_levers>
+<cassette>CASSETTE	Shimano, 7-speed, 12-32</cassette>
+<chain>CHAIN	KMC X8</chain>
+<crankset>CRANKSET	Alloy, square taper, w/ chainguard</crankset>
+<chainrings>CHAINRINGS	42/34/24, steel</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Square taper, cartridge bearings, 68mm shell</bottom_bracket>
+<pedals>PEDALS	Composite platform, w/ reflectors, 9/16"</pedals>
+<rims>RIMS	V-brake 26", alloy double-wall, CNC braking surface, 25mm, pin joint, 32h</rims>
+<front_hub>FRONT HUB	V-brake, alloy, sealed, loose ball, steel axle, QR, 32h</front_hub>
+<rear_hub>REAR HUB	V-brake, alloy, sealed, loose ball, steel axle, QR, 32h</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Fast Trak Sport, 26x2.0", wire bead, 40TPI</front_tire>
+<rear_tire>REAR TYRE	Specialized Fast Trak Sport, 26x2.0", wire bead, 40TPI</rear_tire>
+<inner_tubes>INNER TUBES	Standard Schrader valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Plus Women's, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 30.9mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 34.9mm, QR, nylon washer, anti-corrosion bolt</seat_binder></specs></skus_specs>
+<colorways><colorway_name>PRL WHT/PUR</colorway_name></colorways>
+<images><image href="file:///B1514-92_MYKA HT_ST INT_PRL WHT PUR.jpg"/></images>
+<geos><geo_heading><geo_name>MYKA ST 26</geo_name>
+<geo_size>Size	13.0	15.0	17.0</geo_size></geo_heading>
+<geo><seat_tube_length_center_to_top>Seat Tube Length, Center to Top (mm)	330 	381 	432 </seat_tube_length_center_to_top>
+<top_tube_length_horiz>Top Tube Length (Horizontal) (mm)	525 	545 	575 </top_tube_length_horiz>
+<top_tube_length_actual>Top Tube Length (Actual) (mm)	563 	551 	577 </top_tube_length_actual>
+<chainstay_length>Chainstay Length (mm)	424.5	424.5	424.5</chainstay_length>
+<bottom_bracket_drop>Bottom Bracket Drop (mm)	36 	36 	36 </bottom_bracket_drop>
+<bottom_bracket_height>Bottom Bracket Height (mm)	300 	300 	300 </bottom_bracket_height>
+<head_tube_length>Head Tube Length (mm)	100 	100 	120 </head_tube_length>
+<head_tube_angle>Head Tube Angle (deg)	69.5	69.5	69.5</head_tube_angle>
+<seat_tube_angle>Seat Tube Angle (deg)	74 	74 	73 </seat_tube_angle>
+<wheel_base>Wheel Base (mm)	1025 	1045 	1065 </wheel_base>
+<stack>Stack (mm)	556 	556 	575 </stack>
+<reach>Reach (mm)	366 	386 	399 </reach>
+<standover_height>Standover Height (mm)	625 	679 	683 </standover_height>
+<handlebar_width>Handlebar Width (mm)	640 	640 	660 </handlebar_width>
+<stem_length>Stem Length (mm)	60 	75 	75 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	170 </crank_length>
+<seatpost_length>Seatpost Length (mm)	300 	350 	350 </seatpost_length></geo></geos>
+</product>
+</products>
+</category>
+</categories>
+</bikes>
+</root>

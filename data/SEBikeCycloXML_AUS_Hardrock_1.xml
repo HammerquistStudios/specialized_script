@@ -1,0 +1,41 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<root>
+<bike>
+<families>
+<family>
+<family_id>14Hardrock</family_id>
+<family_name>HARDROCK</family_name>
+<family_experience><experience>ALL-TERRAIN</experience>
+<description>Whether busting down a dirt path or tackling singletrack, the Hardrock delivers versatility and value. The 29-inch wheels make quick work of rough terrain, and with disc brakes and durable suspension fork trail chatter is no obstacle. Combining practicality and performance, the Hardrock features a triple chainring setup and integrated rack and fender mounts for equipment compatibility.</description></family_experience>
+<headline>THE REAL MOUNTAIN BIKE</headline>
+<rider_benefits><rider_benefit>Improved performance and rider confidence with multiple 29-inch models</rider_benefit>
+<rider_benefit>Wide gearing range, and true mountain bike geometry</rider_benefit>
+<rider_benefit>Less maintenance thanks to full, weather-resistant cable housings and corrosion-resistant hardware</rider_benefit>
+<rider_benefit>More controlled and confident riding in all-weather conditions with disc brake stopping power (on most models)</rider_benefit>
+<rider_benefit>Increased versatility in any weather with rack, fender, and integrated kickstand mounts</rider_benefit></rider_benefits>
+<why_its_great>WHY IT'S GREAT</why_its_great>
+<features><feature1>HIGH-QUALITY ALLOY WHEELSET</feature1>
+<what1>WHAT: Double-wall alloy rims with alloy cassette hubs (on most models).</what1>
+<why1>WHY: Longer wheelset life, quicker acceleration, and better control.</why1>
+<how1>HOW: By using a different extrusion process, a second wall is added to the rim, which increases stiffness and strength with little weight penalty. Our alloy cassette hubs dramatically increase stiffness and strength at the point of power transfer, while increasing durability.</how1>
+<feature2>29ER MODELS</feature2>
+<what2>WHAT: 29-inch specific models available at Sport, Disc, and Disc SE levels.</what2>
+<why2>WHY: Provides faster and more efficient rolling on varied surfaces and makes it easier to get over obstacles.</why2>
+<how2>HOW: Larger wheels maintain more momentum when rolling, making on-road riding more efficient. 29-inch wheels roll over obstacles faster and easier than traditional 26-inch wheels. They also bridge wider gaps between rocks, which smooths out bumpy conditions.</how2>
+<feature3>A1 PREMIUM ALUMINIUM FRAME</feature3>
+<what3>WHAT: Frames made of corrosion-resistant aluminium tubing, utilising ORE (optimised Radius Engineering) on the downtube.</what3>
+<why3>WHY: Creates the best balance of light weight, strength, durability, and value.</why3>
+<how3>HOW: By controlling everything from the raw material to the extrusion, butting, swaging, and heat treatment of the tubes, we can optimise our Hardrock bikes for the given ride experience. ORE, specifically, increases weld surface areas at headtube junctions for greater strength, while shaving weight.</how3>
+<feature4>TUNABLE SUSPENSION FORK</feature4>
+<what4>WHAT: 80mm-travel alloy fork with preload adjust and size-specific spring rates.</what4>
+<why4>WHY: Better control and precise handling for a more responsive and comfortable ride off-road and on.</why4>
+<how4>HOW: Combining a lightweight fork material with stiff, oversized stanchions and 80mm of smooth travel keeps the front wheel on the ground and tracking straight over rough terrain. Preload allows riders to achieve proper sag according to their specific weight and desired ride feel.</how4></features>
+<images>
+<image href="file:///81114-64_HR_SPORT DISC 29_CHAR RED WHT.jpg"/>
+<image href="file:///Hardrock1.jpg"/>
+<image href="file:///Hardrock2.jpg"/>
+<image href="file:///Hardrock3.jpg"/></images>
+</family>
+</families>
+</bike>
+</root>

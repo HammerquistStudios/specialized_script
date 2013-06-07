@@ -1,0 +1,38 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<root>
+<bike>
+<families>
+<family>
+<family_id>14Vita</family_id>
+<family_name>VITA</family_name>
+<family_experience><experience>FITNESS COMMUTE</experience>
+<description>The Vita delivers the best of both worlds. It’s a speedy performer that can eat miles with the best of them at a local charity ride or as part of your exercise plan, but can also see you owning the bike lane while commuting to work. With its confidence-inspiring flat bar, a frame optimised for comfort and efficiency, and full fender clearance and rack compatibility, the Vita is the perfect mix of true road speed and total versatility.</description></family_experience>
+<headline>ROAD HEART. CITY SOUL.</headline>
+<rider_benefits><rider_benefit>Greater efficiency and speed thanks to Women's Fitness Geometry</rider_benefit>
+<rider_benefit>Carbon frames on Pro, Expert, and Comp models</rider_benefit>
+<rider_benefit>Best out-of-the-box fit for most female riders, optimised for comfort and efficiency with ergonomic contact points and women's geos developed by our Body Geometry Fit team</rider_benefit>
+<rider_benefit>More comfort and reduced fatigue thanks to vibration-reducing Zertz and women’s components</rider_benefit>
+<rider_benefit>Riders can equip the bike to handle any weather and lots of gear thanks to full fender clearance and rack compatibility</rider_benefit>
+<rider_benefit>Smooth speed courtesy of 700c wheels and 28-32c tyres</rider_benefit>
+<rider_benefit>EQ models at Elite Disc and Sport Disc levels offer a complete package, equipped to ride with two colour-coordinated alloy Zee cages and a Mini-Wedgie seat bag</rider_benefit></rider_benefits>
+<why_its_great>WHY IT'S GREAT</why_its_great>
+<features><feature1>WOMEN'S E5 ALLOY FRAME</feature1>
+<what1>WHAT: Double-butted E5 alloy frame on Comp, Elite, and Elite Disc models, featuring Women's Fitness Geometry, smooth welds, full fender and rack compatibility, internal cable routing, and improved tyre clearance.</what1>
+<why1>WHY: To create the best fitting, most versatile, and most attractive fitness-inspired bike for women.</why1>
+<how1>HOW: Our engineers optimise the frame’s tube shapes and diameters specifically for women to maximise compliance.</how1>
+<feature2>ZERTZ INSERTS</feature2>
+<what2>WHAT: Viscoelastic surface dampers integrated into the fork (select models).</what2>
+<why2>WHY: Absorbs road vibration to minimise fatigue and create a more comfortable ride.</why2>
+<how2>HOW: Vibrations travel from the road through the wheels and up through the frame. Putting dampers at the mid-section of each fork leg helps dissolve vibrations as they travel up the fork, before they reach the rider’s hands and body.</how2>
+<feature3>WOMEN'S COMPONENTS</feature3>
+<what3>WHAT: Women's Body Geometry Riva saddle, women's Body Geometry Contour grips, and size-specific crank lengths.</what3>
+<why3>WHY: To ensure that female riders get the most comfort and best fit out of every contact point.</why3>
+<how3>HOW: Through pressure mapping studies with Dr. Roger Minkow, we optimise the foam densities and cutouts in our saddles to relieve soft tissue discomfort. Grips are designed with varying thickness to anatomically contour to the hands, and crank lengths are chosen based on female rider sizes.</how3></features>
+<images>
+<image href="file:///92914-10_VITA_PRO CARBON_SIL WHT HYP GRN.jpg"/>
+<image href="file:///Vita1.jpg"/>
+<image href="file:///Vita2.jpg"/></images>
+</family>
+</families>
+</bike>
+</root>

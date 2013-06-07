@@ -1,0 +1,351 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<root>
+<bikes>
+<categories>
+<category>
+<category_id>14Vita</category_id>
+<category_name>Vita</category_name>
+<products>
+<product>
+<product_id>14VITAVItaProCarbon</product_id>
+<display_name>Vita Pro Carbon</display_name>
+<description>Delivering the performance of the world's best road bikes in a flat-bar, urban-friendly form, Vita redefines the notion of versatility. The Vita Pro has a lightweight carbon frame with Women's Endurance Geometry, plus Zertz for a fast and efficient ride. The 2x10 Shimano Ultegra drivetrain is lightweight and provides flawless shifting.</description>
+<bullets><bullet>FACT IS constructed frame, Women's Endurance Geometry, and Zertz delivers the performance of a high-end road bike in a flat bar package</bullet>
+<bullet>FACT carbon fork with Zertz for a quick, responsive road feel and forgiving ride</bullet>
+<bullet>Significantly lighter than comparable-level wheelsets, tough AXIS 2.0 wheels roll smooth and fast</bullet>
+<bullet>Women's Body Geometry Contour grips help alleviate hand pain and tingling fingers; with integrated bar ends for changing hand position</bullet>
+<bullet>Shimano Ultegra drivetrain coupled with compact alloy crankset for smooth, efficient shifting</bullet>
+<bullet>Body Geometry Riva Comp Women's saddle features generous padding for all-day performance and comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>92914-1001	VITA PRO CARBON	SIL/WHT/HYP GRN	44</sku>
+<sku>92914-1002			48</sku>
+<sku>92914-1003			51</sku>
+<sku>92914-1004			54</sku>
+<sku>92914-1005			57</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	FACT carbon w/ Zertz inserts, Women's Endurance Geometry and tubesets, integrated headset</frame>
+<fork>FORK	Specialized FACT carbon w/ Zertz inserts, aluminium steerer/crown</fork>
+<headset>HEADSET	1-1/8" Campy style, integrated cartridge, 20mm alloy cone spacer</headset>
+<stem>STEM	Specialized Elite-Set, 3D forged alloy, 4-bolt, 4-position adjustable, 31.8mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, double-butted alloy, 6-degree backsweep, 31.8mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Women's Contour, lock-on w/ integrated bar end</tape>
+<front_brake>FRONT BRAKE	Shimano 105</front_brake>
+<rear_brake>REAR BRAKE	Shimano 105</rear_brake>
+<brake_levers>BRAKE LEVERS	Shimano R550</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano 105</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Ultegra</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano SL-R780</shift_levers>
+<cassette>CASSETTE	Shimano HG-62, 10-speed, 11-34</cassette>
+<chain>CHAIN	KMC X10</chain>
+<crankset>CRANKSET	Shimano Ultegra</crankset>
+<chainrings>CHAINRINGS	50/34</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Shimano</bottom_bracket>
+<pedals>PEDALS	Nylon body, alloy cage, 1.5 varus angle</pedals>
+<front_wheel>FRONT WHEEL	AXIS 2.0</front_wheel>
+<rear_wheel>REAR WHEEL	AXIS 2.0</rear_wheel>
+<front_tire>FRONT TYRE	Specialized Espoir Sport, 60TPI, wire bead, double BlackBelt protection, 700x23c</front_tire>
+<rear_tire>REAR TYRE	Specialized Espoir Sport, 60TPI, wire bead, double BlackBelt protection, 700x23c</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Comp Women's, hollow Cr-Mo rails, 155mm</saddle>
+<seatpost>SEATPOST	Specialized CG-R</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 32.6mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>SIL/WHT/HYP GRN</colorway_name></colorways>
+<images><image href="file:///92914-10_VITA_PRO CARBON_SIL WHT HYP GRN.jpg"/></images>
+<geos><geo_heading><geo_name>2011 RUBY COMP</geo_name>
+<geo_size>Size	44	48	51	54	57</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	385 	415 	445 	480 	510 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	498 	506 	515 	532 	556 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	73 	73 	73 	73 	71.5</b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	412 	415 	415 	415 	417 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	75.75	75.75	75.5	74 	73.5</seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.25	71.25	71.5	72 	72 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	51 	51 	51 	49 	49 </fork_rake>
+<trail>Trail (mm)	68 	62 	60 	59 	59 </trail>
+<front_center>Front-Center (mm)	575 	579 	585 	583 	604 </front_center>
+<wheelbase>Wheelbase (mm)	976 	983 	989 	987 	1010 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	692 	714 	740 	765 	792 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	120 	130 	140 	165 	190 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	360 	380 	400 	400 	420 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	75 	90 	100 	100 </stem_length>
+<crank_length>Crank Length (mm)	165 	165 	170 	170 	175 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	350 	350 	350 	350 	350 </seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14VITAVitaCompCarbon</product_id>
+<display_name>Vita Comp Carbon</display_name>
+<description>Delivering the performance of the world's best road bikes in a flat-bar, urban-friendly form, Vita redefines the notion of versatility. The Vita Comp has a lightweight carbon frame with Women's Endurance Geometry and Zertz for a fast and efficient ride. The 2x10 FSA/Tiagra drivetrain is lightweight and provides flawless shifting.</description>
+<bullets><bullet>FACT IS constructed frame, Women's Endurance Geometry, and Zertz delivers the performance of a high-end road bike in a flat bar package</bullet>
+<bullet>FACT carbon fork with Zertz for a quick, responsive road feel and forgiving ride</bullet>
+<bullet>Double BlackBelt protection and 23c profile make Specialized Espoir Sport tyres reliable and fast on city streets</bullet>
+<bullet>FSA Gossamer crankset, Shimano Tiagra drivetrain, 10-speed cassette, with dual-pull front derailleur for spot-on shifting every time</bullet>
+<bullet>Women's Body Geometry Contour grips help alleviate hand pain and tingling fingers; with integrated bar ends for changing hand position</bullet>
+<bullet>Body Geometry Riva Comp Women's saddle features generous padding for all-day performance and comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>92914-5201	VITA COMP CARBON	CARB/TEAL	44</sku>
+<sku>92914-5202			48</sku>
+<sku>92914-5203			51</sku>
+<sku>92914-5204			54</sku>
+<sku>92914-5205			57</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	FACT carbon w/ Zertz inserts, Women's Endurance Geometry and tubesets, integrated headset</frame>
+<fork>FORK	Specialized FACT carbon w/ Zertz inserts, aluminium steerer/crown</fork>
+<headset>HEADSET	1-1/8" Campy style, integrated cartridge, 20mm alloy cone spacer</headset>
+<stem>STEM	Specialized Elite-Set, 3D forged alloy, 4-bolt, 4-position adjustable, 31.8mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, double-butted alloy, 6-degree backsweep, 31.8mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Women's Contour, lock-on w/ integrated bar end</tape>
+<front_brake>FRONT BRAKE	Tektro, dual pivot, cartridge pad</front_brake>
+<rear_brake>REAR BRAKE	Tektro, dual pivot, cartridge pad</rear_brake>
+<brake_levers>BRAKE LEVERS	Tektro RX1, forged alloy, two-finger</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Tiagra</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Tiagra</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano Tiagra, Rapidfire</shift_levers>
+<cassette>CASSETTE	Shimano HG-62, 10-speed, 11-34</cassette>
+<chain>CHAIN	KMC X10</chain>
+<crankset>CRANKSET	FSA Gossamer, forged alloy, 10-speed</crankset>
+<chainrings>CHAINRINGS	50/34, alloy outer ring</chainrings>
+<bottom_bracket>BOTTOM BRACKET	FSA</bottom_bracket>
+<pedals>PEDALS	Nylon body, alloy cage, 1.5 varus angle</pedals>
+<front_wheel>FRONT WHEEL	AXIS 1.0</front_wheel>
+<rear_wheel>REAR WHEEL	AXIS 1.0</rear_wheel>
+<front_tire>FRONT TYRE	Specialized Espoir Sport, 60TPI, wire bead, double BlackBelt protection, 700x23c</front_tire>
+<rear_tire>REAR TYRE	Specialized Espoir Sport, 60TPI, wire bead, double BlackBelt protection, 700x23c</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Comp Women's, hollow Cr-Mo rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 32.6mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>CARB/TEAL</colorway_name></colorways>
+<images><image href="file:///92914-52_VITA_COMP CARBON_CARB TEAL.jpg"/></images>
+<geos><geo_heading><geo_name>2011 RUBY COMP</geo_name>
+<geo_size>Size	44	48	51	54	57</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	385 	415 	445 	480 	510 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	498 	506 	515 	532 	556 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	73 	73 	73 	73 	71.5</b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	412 	415 	415 	415 	417 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	75.75	75.75	75.5	74 	73.5</seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.25	71.25	71.5	72 	72 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	51 	51 	51 	49 	49 </fork_rake>
+<trail>Trail (mm)	68 	62 	60 	59 	59 </trail>
+<front_center>Front-Center (mm)	575 	579 	585 	583 	604 </front_center>
+<wheelbase>Wheelbase (mm)	976 	983 	989 	987 	1010 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	692 	714 	740 	765 	792 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	120 	130 	140 	165 	190 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	360 	380 	400 	400 	420 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	75 	90 	100 	100 </stem_length>
+<crank_length>Crank Length (mm)	165 	165 	170 	170 	175 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	350 	350 	350 	350 	350 </seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14VITAVitaEliteDiscEQ</product_id>
+<display_name>Vita Elite Disc EQ</display_name>
+<description>The Vita Elite combines the speed of a road bike with the comfort and confidence that comes from a flat bar, whether you're exercising, commuting, or hitting the open road. A super-light E5 alloy frame and carbon fork, disc brakes for confident and reliable stopping power, plus 9-speed Shimano compact drivetrain, delivers smooth, fast, and efficient performance. To help get you ready for your first adventure, the EQ comes equipped with two alloy Zee cages and a Mini-Wedgie seat bag.</description>
+<bullets><bullet>Super light, women's fully-manipulated E5 Premium Aluminium frame with Fitness Geometry is built for high speed, low fuss, and great versatility, with internal routing, rack/fender mounts, and wide tyre clearance</bullet>
+<bullet>Disc fork with alloy crown and Cr-Mo steerer for a quick, responsive road feel and forgiving ride</bullet>
+<bullet>Body Geometry Riva Women's saddle features generous padding for all-day performance and comfort</bullet>
+<bullet>Women's Body Geometry Contour grips help alleviate hand pain and tingling fingers; compatible with integrated bar ends for changing hand position</bullet>
+<bullet>Tektro Draco hydraulic disc brakes with dual pistons and women's shorter reach levers ensure precision braking and fit</bullet>
+<bullet>FSA Tempo crank and 9-speed drivetrain provides gearing for any terrain and any load, with precise, reliable action</bullet>
+<bullet>Two colour-matched alloy Zee cages and a matching Mini-Wedgie seat bag for a bike that is ready for any ride, right out of the box</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>82914-4201	VITA ELITE DISC EQ	PRL WHT/PUR	XS</sku>
+<sku>82914-4202			S</sku>
+<sku>82914-4203			M</sku>
+<sku>82914-4204			L</sku>
+<sku>82914-4205			XL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized E5 Premium Aluminium, Women's Fitness Geometry and tubesets, double-butted, integrated headset, fender/rack eyelets</frame>
+<fork>FORK	A1 Premium Aluminium disc, Cr-Mo steerer</fork>
+<headset>HEADSET	1-1/8" FSA Campy style, integrated cartridge, 15mm alloy cone spacer</headset>
+<stem>STEM	Specialized 3D forged alloy, 10-degree rise, 31.8mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, alloy, 10-degree backsweep, 31.8mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Women's Contour, lock-on</tape>
+<front_brake>FRONT BRAKE	Tektro Draco 2, hydraulic disc, dual piston, Light Wave rotor, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Tektro Draco 2, hydraulic disc, dual piston, Light Wave rotor, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Tektro Draco, hydraulic lever</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Sora 3500, top-swing, dual-pull</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Tiagra</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano Sora, Rapidfire</shift_levers>
+<cassette>CASSETTE	Shimano HG-50, 9-speed, 11-30</cassette>
+<chain>CHAIN	KMC X9</chain>
+<crankset>CRANKSET	FSA Tempo, 9-speed compact</crankset>
+<chainrings>CHAINRINGS	50/34, alloy outer ring</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Cartridge bearings, square spindle, capless bolts</bottom_bracket>
+<pedals>PEDALS	Nylon body, alloy cage, 1.5 varus angle</pedals>
+<front_wheel>FRONT WHEEL	AXIS Classic Disc</front_wheel>
+<rear_wheel>REAR WHEEL	AXIS Classic Disc</rear_wheel>
+<front_tire>FRONT TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, reflective sidewall, 700x28c</front_tire>
+<rear_tire>REAR TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, reflective sidewall, 700x28c</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Women's, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, micro-adjust, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>PRL WHT/PUR</colorway_name></colorways>
+<images><image href="file:///92914-43_VITA_ELITE DISC EQ_PRL WHT PUR.jpg"/></images>
+<geos><geo_heading><geo_name>VITA E5</geo_name>
+<geo_size>Size	XS	S	M	L	XL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	360 	395 	440 	475 	510 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	520 	535 	550 	565 	580 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	70 	70 	70 	70 	70 </b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445 	445 	445 	445 	445 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	75 	74.5	74 	73 	73 </seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	69 	70 	71 	71 	71 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	51 	51 	51 	51 	51 </fork_rake>
+<trail>Trail (mm)	79 	73 	66 	66 	66 </trail>
+<front_center>Front-Center (mm)	614 	615 	617 	621 	637 </front_center>
+<wheelbase>Wheelbase (mm)	1049 	1051 	1052 	1057 	1073 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	689 	713 	747 	772 	798 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	120 	130 	150 	165 	185 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	580 	580 	580 	580 	580 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	75 	90 	100 	110 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	170 	170 	170 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	300 	300 	350 	350 	350 </seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14VITAVitaSport</product_id>
+<display_name>Vita Sport</display_name>
+<description>The Vita Sport combines the speed of a road bike with the comfort and confidence that comes from a flat bar, whether you're exercising, commuting, or hitting the open road. The 9-speed Shimano triple drivetrain delivers smooth, reliable shifting and offers a wide range of gearing.</description>
+<bullets><bullet>Women's A1 Premium Aluminium frame with Fitness Geometry and integrated headset offers a great ride and versatility, with rack/fender mounts and wide tyre clearance</bullet>
+<bullet>Alloy fork with alloy crown and Cr-Mo steerer for a quick, responsive road feel and forgiving ride</bullet>
+<bullet>Flak Jacket protection and a grooved tread make the Specialized Nimbus tyres perfect for city or open road use</bullet>
+<bullet>SR Suntour crankset, Shimano Acera front and 9-speed rear derailleur, plus EZ Fire Plus shifters for wide-range gearing and spot-on shifting</bullet>
+<bullet>Body Geometry Riva Women's saddle features generous padding for all-day performance and comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>82914-6001	VITA SPORT	MET SIL/WHT	XS</sku>
+<sku>82914-6002			S</sku>
+<sku>82914-6003			M</sku>
+<sku>82914-6004			L</sku>
+<sku>82914-6005			XL</sku>
+<sku>82914-6101	VITA SPORT	BLK/WHT/PNK	XS</sku>
+<sku>82914-6102			S</sku>
+<sku>82914-6103			M</sku>
+<sku>82914-6104			L</sku>
+<sku>82914-6105			XL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized A1 Premium Aluminium, Women's Fitness Geometry and fully manipulated tubesets, integrated headset, fender/rack eyelets</frame>
+<fork>FORK	A1 Premium Aluminium, Cr-Mo steerer, fender/rack eyelets</fork>
+<headset>HEADSET	1-1/8" FSA Campy style, integrated lower, external sealed upper bearings, 15mm cone spacer</headset>
+<stem>STEM	Melt-forged alloy, 4-bolt, 20-degree rise, 25.4mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, alloy, 6-degree backsweep, 25.4mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Women's Contour, lock-on</tape>
+<front_brake>FRONT BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</front_brake>
+<rear_brake>REAR BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</rear_brake>
+<brake_levers>BRAKE LEVERS	Shimano EF-51</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Acera, top-swing, dual-pull</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Acera, 9-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano ST-EF51, EZ Fire</shift_levers>
+<cassette>CASSETTE	Shimano HG-20, 9-speed, 11-32</cassette>
+<chain>CHAIN	KMC X9</chain>
+<crankset>CRANKSET	SR Suntour XCR, 9-speed, square spindle, w/ chainguard</crankset>
+<chainrings>CHAINRINGS	48/36/26, w/ chainguard</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Cartridge bearings, square spindle, capless bolts</bottom_bracket>
+<pedals>PEDALS	Nylon body, alloy cage, 1.5 varus angle</pedals>
+<rims>RIMS	Alloy double-wall, pin joint, 32h</rims>
+<front_hub>FRONT HUB	Double-sealed, ground race, dual-lock nuts, 5mm QR</front_hub>
+<rear_hub>REAR HUB	Double-sealed, loose ball, dual-lock nuts, 5mm QR</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, 700x28c</front_tire>
+<rear_tire>REAR TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, 700x28c</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Women's, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, micro-adjust, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>MET SIL/WHT</colorway_name>
+<colorway_name>BLK/WHT/PNK</colorway_name></colorways>
+<images><image href="file:///92914-60_VITA_SPORT_MET SIL WHT.jpg"/>
+<image href="file:///82914-61_VITA_SPORT_BLK WHT PNK.jpg"/></images>
+<geos><geo_heading><geo_name>VITA A1</geo_name>
+<geo_size>Size	XS	S	M	L	XL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	360 	395 	440 	475 	510 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	520 	535 	550 	565 	580 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	70 	70 	70 	70 	70 </b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445 	445 	445 	445 	445 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	75 	74.5	74 	73 	73 </seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	69 	70 	71 	71 	71 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	51 	51 	51 	51 	51 </fork_rake>
+<trail>Trail (mm)	80 	73 	67 	67 	67 </trail>
+<front_center>Front-Center (mm)	615 	616 	617 	622 	638 </front_center>
+<wheelbase>Wheelbase (mm)	1051 	1052 	1053 	1057 	1073 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	691 	717 	752 	776 	802 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	120 	130 	150 	165 	185 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	580 	580 	580 	580 	580 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	75 	90 	100 	110 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	170 	170 	170 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	300 	300 	350 	350 	350 </seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14VITAVita</product_id>
+<display_name>Vita</display_name>
+<description>The Vita combines the speed of a road bike with the comfort and confidence that comes from a flat bar, whether you're exercising, commuting, or hitting the open road. The Shimano 8-speed gearing delivers reliable performance, whatever your ride throws at you.</description>
+<bullets><bullet>Women's A1 Premium Aluminium frame with Fitness Geometry and integrated headset offers a great ride and versatility, with rack/fender mounts and wide tyre clearance</bullet>
+<bullet>Straight blade steel fork with fender mounts gives you all the durability you need to manage potholes and rough roads</bullet>
+<bullet>Flak Jacket protection and a grooved tread make the Specialized Nimbus tyres perfect for city or open road use</bullet>
+<bullet>Shimano Altus triple crankset with Shimano Altus rear derailleur for smooth, trouble-free shifting, plus chainguard for peace of mind</bullet>
+<bullet>Women's Body Geometry Contour grips help alleviate hand pain and tingling fingers; compatible with integrated bar ends for changing hand position</bullet>
+<bullet>Body Geometry Riva Women's saddle features generous padding for all-day performance and comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>82914-7001	VITA	WHT/CRMSN	XS</sku>
+<sku>82914-7002			S</sku>
+<sku>82914-7003			M</sku>
+<sku>82914-7004			L</sku>
+<sku>82914-7005			XL</sku>
+<sku>82914-7101	VITA	PUR/WHT	XS</sku>
+<sku>82914-7102			S</sku>
+<sku>82914-7103			M</sku>
+<sku>82914-7104			L</sku>
+<sku>82914-7105			XL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized A1 Premium Aluminium, Women's Fitness Geometry and fully manipulated tubesets, integrated headset, fender/rack eyelets</frame>
+<fork>FORK	Specialized Hi-Ten steel, straight blade, fender/rack eyelets</fork>
+<headset>HEADSET	1-1/8" FSA Campy style, integrated lower, external sealed upper bearings, 15mm cone spacer</headset>
+<stem>STEM	Melt-forged alloy, 4-bolt, 20-degree rise, 25.4mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, alloy, 6-degree backsweep, 25.4mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Women's Contour</tape>
+<front_brake>FRONT BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</front_brake>
+<rear_brake>REAR BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</rear_brake>
+<brake_levers>BRAKE LEVERS	Shimano EF-51</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano FD-M191, top-swing, dual-pull</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Altus, 8-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano ST-EF51, EZ Fire</shift_levers>
+<cassette>CASSETTE	Shimano HG-31, 8-speed, 11-32</cassette>
+<chain>CHAIN	KMC X8</chain>
+<crankset>CRANKSET	Shimano Altus, 8-speed triple, w/ chainguard</crankset>
+<chainrings>CHAINRINGS	48/38/28, w/ chainguard</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Cartridge bearings, square spindle, capless bolts</bottom_bracket>
+<pedals>PEDALS	Nylon flat</pedals>
+<rims>RIMS	Alex, alloy double-wall, CNC sidewalls, 32h</rims>
+<front_hub>FRONT HUB	Double-sealed, ground race, dual-lock nuts, 5mm QR</front_hub>
+<rear_hub>REAR HUB	Double-sealed, loose ball, dual-lock nuts, 5mm QR</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, 700x32c</front_tire>
+<rear_tire>REAR TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, 700x32c</rear_tire>
+<inner_tubes>INNER TUBES	Standard Schrader valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Women's, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, micro-adjust, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>WHT/CRMSN</colorway_name>
+<colorway_name>PUR/WHT</colorway_name></colorways>
+<images><image href="file:///82914-70_VITA_WHT CRMSN.jpg"/>
+<image href="file:///82914-71_VITA_PUR WHT.jpg"/></images>
+<geos><geo_heading><geo_name>VITA A1</geo_name>
+<geo_size>Size	XS	S	M	L	XL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	360 	395 	440 	475 	510 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	520 	535 	550 	565 	580 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	70 	70 	70 	70 	70 </b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445 	445 	445 	445 	445 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	75 	74.5	74 	73 	73 </seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	69 	70 	71 	71 	71 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	51 	51 	51 	51 	51 </fork_rake>
+<trail>Trail (mm)	80 	73 	67 	67 	67 </trail>
+<front_center>Front-Center (mm)	615 	616 	617 	622 	638 </front_center>
+<wheelbase>Wheelbase (mm)	1051 	1052 	1053 	1057 	1073 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	691 	717 	752 	776 	802 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	120 	130 	150 	165 	185 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	580 	580 	580 	580 	580 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	75 	90 	100 	110 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	170 	170 	170 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	300 	300 	350 	350 	350 </seat_post_length></geo></geos>
+</product>
+</products>
+</category>
+</categories>
+</bikes>
+</root>

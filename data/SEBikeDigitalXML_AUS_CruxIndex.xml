@@ -1,0 +1,60 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<index>
+<categories>
+<category>
+<category_id>14CruX</category_id>
+<category_name>CruX</category_name>
+<products>
+<product>
+<product_id>14CruXSWCruXCarbonRedDisc</product_id>
+<display_name_index>S-Works CruX Red Disc</display_name_index>
+<images><image href="file:///99314-00_CX_SW CARBON DISC RED_CARB RED WHT.jpg"/>
+<image href="file:///99314-00_CX_SW CARBON DISC RED_CARB RED WHT.jpg"/></images>
+<next_model>S-Works CruX Red Disc</next_model>
+</product>
+<product>
+<product_id>14CruXSWCruXDiscCarbonFrmset</product_id>
+<display_name_index>S-Works CruX Disc Frameset</display_name_index>
+<images><image href="file:///79314-02_CX_SW CARBON DISC FRMSET_MON GRN CHAR WHT.jpg"/>
+<image href="file:///79314-02_CX_SW CARBON DISC FRMSET_MON GRN CHAR WHT.jpg"/></images>
+<next_model>S-Works CruX Disc Frameset</next_model>
+</product>
+<product>
+<product_id>14CruXCruXProRaceCarbonRedDisc</product_id>
+<display_name_index>CruX Pro Race Red Disc</display_name_index>
+<images><image href="file:///91414-11_CX_PRO RACE CARBON DISC RED_CARB CHAR MULTI.jpg"/>
+<image href="file:///91414-11_CX_PRO RACE CARBON DISC RED_CARB CHAR MULTI.jpg"/></images>
+<next_model>CruX Pro Race Red Disc</next_model>
+</product>
+<product>
+<product_id>14CruXCruXExpertCarbonRedDisc</product_id>
+<display_name_index>CruX Expert Red Disc</display_name_index>
+<images><image href="file:///91414-30_CX_EXPERT CARBON DISC RED_PRL WHT CHAR RED.jpg"/>
+<image href="file:///91414-30_CX_EXPERT CARBON DISC RED_PRL WHT CHAR RED.jpg"/></images>
+<next_model>CruX Expert Red Disc</next_model>
+</product>
+<product>
+<product_id>14CruXCruXEliteCarbonRivalDisc</product_id>
+<display_name_index>CruX Elite Rival Disc</display_name_index>
+<images><image href="file:///91414-40_CX_ELITE CARBON DISC RIVAL_RED BUR BLK.jpg"/>
+<image href="file:///91414-40_CX_ELITE CARBON DISC RIVAL_RED BUR BLK.jpg"/></images>
+<next_model>CruX Elite Rival Disc</next_model>
+</product>
+<product>
+<product_id>14CruXCruXSportE5ApexDisc</product_id>
+<display_name_index>CruX E5 Sport Apex Disc</display_name_index>
+<images><image href="file:///91414-60_CX_SPORT E5 DISC APEX_CHAR PRL WHT HYP GRN.jpg"/>
+<image href="file:///91414-60_CX_SPORT E5 DISC APEX_CHAR PRL WHT HYP GRN.jpg"/></images>
+<next_model>CruX E5 Sport Apex Disc</next_model>
+</product>
+<product>
+<product_id>14CruXCruXE5FrmsetDisc</product_id>
+<display_name_index>CruX E5 Disc Frameset</display_name_index>
+<images><image href="file:///71414-71_CX_E5 DISC FRMSET_STRBST.jpg"/>
+<image href="file:///71414-71_CX_E5 DISC FRMSET_STRBST.jpg"/></images>
+<next_model>CruX E5 Disc Frameset</next_model>
+</product>
+</products>
+</category>
+</categories>
+</index>
