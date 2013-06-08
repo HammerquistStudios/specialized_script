@@ -1,0 +1,41 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<root>
+<bike>
+<families>
+<family>
+<family_id>14Secteur</family_id>
+<family_name>SECTEUR</family_name>
+<family_experience><experience>ENDURANCE ROAD</experience>
+<description>A fatigue-fighter, the Secteur is on a mission: to inspire you to ride further, and help you reach your goals in maximum comfort. With Zertz and FACT carbon fork to reduce road vibration, the Secteur’s alloy frame delivers a ride that’s fast, smooth, and a great value. A century, that Gran Fondo you read about, exploring where roads lead, or just holding your own on a weekly group ride—these are excellent aboard a Secteur.</description></family_experience>
+<headline>ROUBAIX-BRED PERFORMANCE</headline>
+<rider_benefits><rider_benefit>Super-smooth and fast ride plus improved value thanks to lightweight AXIS wheels</rider_benefit>
+<rider_benefit>Compliance is built into all models with Compliance Plus or Zertz throughout the line</rider_benefit>
+<rider_benefit>Reduced fatigue and less road vibration compliments of FACT carbon fork with Zertz inserts on all models</rider_benefit>
+<rider_benefit>Comfortable position, even in the drops, with ergonomic short drop, short reach handlebars</rider_benefit>
+<rider_benefit>Confidence-inspiring disc models with 30c tyres</rider_benefit></rider_benefits>
+<why_its_great>WHY IT'S GREAT</why_its_great>
+<features><feature1>EXPERIENCE-SPECIFIC TUBESETS</feature1>
+<what1>WHAT: An ultra-efficient approach to aluminium frame design that produces the optimal combination of ride properties for the experience at hand.</what1>
+<why1>WHY: Increases strength and improves stiffness for the best all-around performance and handling.</why1>
+<how1>HOW: Through methodical tube shaping and enhanced weld techniques, our engineers manipulate every aspect of the frame for experience-specific performance.</how1>
+<feature2>FACT CARBON FORK</feature2>
+<what2>WHAT: FACT carbon fork with Zertz inserts.</what2>
+<why2>WHY: Decreases weight and absorbs road vibration, while increasing strength and stiffness of fork to create a quicker-handling bike.</why2>
+<how2>HOW: Carbon has a higher strength-to-weight ratio than alloy, so the fork’s carbon blades are stiffer and lighter weight, which creates a more responsive, predictable front end. Zertz inserts are integrated into the mid-section of each leg to dissipate vibrations from the road, helping to reduce rider fatigue.</how2>
+<feature3>DISC MODELS W/ 30C TYRES</feature3>
+<what3>WHAT: Powerful disc brakes with wide 30c tyres and fender capability.</what3>
+<why3>WHY: To deliver freedom to explore rougher roads or any weather conditions at hand.</why3>
+<how3>HOW: Disc brakes provide powerful, consistent braking in all conditions, regardless of the road surface. Wider tyres provide a wide contact patch that delivers excellent grip and ultimate comfort. Plug-and-play fenders allow for clean rides and riders.</how3>
+<feature4>COMPLIANCE PLUS SEATSTAYS AND ZERTZ INSERTS</feature4>
+<what4>WHAT: Z-shaped alloy seatstays on A1 aluminium models, and Zertz damping inserts on E5 aluminium models.</what4>
+<why4>WHY: To increase comfort and compliance, damp road vibrations, and shave weight, while increasing rear-end torsional stiffness.</why4>
+<how4>HOW: Seatstays designed with aggressive Z curve allow more vertical flex without sacrificing lateral stiffness—vital for ride compliance and efficiency. Zertz inserts are attached to the mid-section of each stay to dissipate vibrations from the road, helping to reduce rider fatigue.</how4></features>
+<images>
+<image href="file:///90514-30_SECT_EXPERT DISC C2_BLK RED.jpg"/>
+<image href="file:///Secteur1.jpg"/>
+<image href="file:///Secteur2.jpg"/>
+<image href="file:///Secteur3.jpg"/></images>
+</family>
+</families>
+</bike>
+</root>

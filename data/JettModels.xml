@@ -1,0 +1,209 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<root>
+<bikes>
+<categories>
+<category>
+<category_id>14Jett</category_id>
+<category_name>Jett</category_name>
+<products>
+<product>
+<product_id>14JETJETTEXPERT29</product_id>
+<display_name>Jett Expert 29</display_name>
+<description>Jett provides the smooth ride and improved handling of 29" wheels in an M4 aluminium XC trail bike designed just for women. The all-new Jett 29 Expert hardtail features Women's XC 29er Geometry, RockShox Reba RL 29 fork, and Shimano BR-M505 hydraulic disc brakes.</description>
+<bullets><bullet>Fully butted, smooth-welded M4 Premium Aluminium frame with Women's XC 29er Geometry delivers a confident and lightweight ride, with integrated headset for precision handling</bullet>
+<bullet>RockShox Reba RL 29 80mm-travel fork with rebound/preload adjustment, lockout, and custom tunability delivers versatility over varying terrain; size 15" has 51mm offset fork, sizes 17" and 19" have standard 46mm offset</bullet>
+<bullet>Custom SRAM S-1250 XC double crankset with GXP spindle for smooth pedalling performance; Shimano XT Shadow rear derailleur means crisp shifting</bullet>
+<bullet>Shimano Deore hydraulic disc brakes for superb control and modulation</bullet>
+<bullet>Women's Body Geometry Riva Comp saddle features a women's cutout and plush seating area for all-day riding comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>91814-3002	JETT EXPERT 29	BLK/FLO RED	S</sku>
+<sku>91814-3003			M</sku>
+<sku>91814-3004			L</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized Jett M4 Premium Aluminium, Women's XC 29er Geometry and tubesets, fully butted w/ smooth welds, integrated headset, forged post-mount 160mm dropouts w/ replaceable hanger, disc only</frame>
+<fork>FORK	RockShox Reba RL 29, TurnKey damping w/ Push-Loc remote lockout, Solo Air spring, 1-1/8" alloy steerer, 32mm alloy stanchions, 80mm travel, SM/15: 51mm offset,  MD/17 and LG/19: 46mm offset</fork>
+<headset>HEADSET	1-1/8" threadless, Campy style, integrated full cartridge bearings</headset>
+<stem>STEM	Specialized 3D forged 6061 alloy, 4-bolt clamp, 7-degree rise, 31.8mm</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, double-butted 6061 alloy, 660mm wide, 10-degree backsweep, 4-degree upsweep, 31.8mm</handlebars>
+<grips>GRIPS	Specialized Women's Body Geometry XCT, Kraton w/ gel, closed end, lock-on</grips>
+<front_brake>FRONT BRAKE	Shimano Deore, hydraulic disc, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Shimano Deore, hydraulic disc, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Avid Elixir 3R, hydraulic lever, tool-less reach adj.</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	SRAM X7, 10-speed, 34.9mm clamp</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Deore XT Shadow, 10-speed, GS cage</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano Deore, 10-speed Rapidfire Plus, w/ optical display</shift_levers>
+<cassette>CASSETTE	SRAM PG-1030, 10-speed, 11-36</cassette>
+<chain>CHAIN	KMC X10</chain>
+<crankset>CRANKSET	Custom SRAM S-1250, 10-speed XC double, GXP</crankset>
+<chainrings>CHAINRINGS	36/22</chainrings>
+<bottom_bracket>BOTTOM BRACKET	SRAM GXP BB for 2pc., 73mm shell</bottom_bracket>
+<pedals>PEDALS	Alloy, 1pc. body and cage, w/ reflectors, 9/16"</pedals>
+<rims>RIMS	Stout SL Disc 29", alloy double-wall, 26mm, sleeve joint, 36h</rims>
+<front_hub>FRONT HUB	Specialized disc, alloy, Hi Lo flange, cartridge bearings, steel axle, QR, 36h</front_hub>
+<rear_hub>REAR HUB	Specialized disc, alloy, Hi Lo flange, cartridge bearings, steel axle, steel cassette body, QR, 36h</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Ground Control, 29x2.1", Kevlar bead, 60TPI</front_tire>
+<rear_tire>REAR TYRE	Specialized Ground Control, 29x2.1", Kevlar bead, 60TPI</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Comp Women's, hollow Cr-Mo rails, 155mm</saddle>
+<seatpost>SEATPOST	Specialized alloy, 12.5mm offset, 30.9mm, 350mm/400mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm, QR, brass washer</seat_binder></specs></skus_specs>
+<colorways><colorway_name>BLK/FLO RED</colorway_name></colorways>
+<images><image href="file:///91814-30_JETT_EXPERT 29_BLK FLORED.jpg"/></images>
+<geos><geo_heading><geo_name>JETT 29</geo_name>
+<geo_size>Size	15.0	17.0	19.0</geo_size></geo_heading>
+<geo><seat_tube_length_center_to_top>Seat Tube Length, Center to Top (mm)	381 	431.8	482.6</seat_tube_length_center_to_top>
+<top_tube_length_horiz>Top Tube Length (Horizontal) (mm)	552 	575 	595 </top_tube_length_horiz>
+<top_tube_length_actual>Top Tube Length (Actual) (mm)	530 	549 	570 </top_tube_length_actual>
+<chainstay_length>Chainstay Length (mm)	442 	442 	442 </chainstay_length>
+<bottom_bracket_drop>Bottom Bracket Drop (mm)	63.5	63.5	63.5</bottom_bracket_drop>
+<bottom_bracket_height>Bottom Bracket Height (mm)	305 	305 	305 </bottom_bracket_height>
+<head_tube_length>Head Tube Length (mm)	90 	100 	115 </head_tube_length>
+<head_tube_angle>Head Tube Angle (deg)	70.5	71 	71 </head_tube_angle>
+<seat_tube_angle_actual>Seat Tube Angle (Actual) (deg)	71 	71 	71 </seat_tube_angle_actual>
+<seat_tube_angle_effective>Seat Tube Angle (Effective) (deg)	73.5	73.5	73.5</seat_tube_angle_effective>
+<wheel_base>Wheel Base (mm)	1056 	1068 	1089 </wheel_base>
+<stack>Stack (mm)	590 	604 	618 </stack>
+<reach>Reach (mm)	377 	396 	412 </reach>
+<standover_height>Standover Height (mm)	710 	741 	775 </standover_height>
+<handlebar_width>Handlebar Width (mm)	660 	660 	660 </handlebar_width>
+<stem_length>Stem Length (mm)	60 	75 	75 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	170 </crank_length>
+<seatpost_length>Seatpost Length (mm)	350 	350 	400 </seatpost_length></geo></geos>
+</product>
+<product>
+<product_id>14JETJETTCOMP29</product_id>
+<display_name>Jett Comp 29</display_name>
+<description>Jett provides the smooth ride and improved handling of 29" wheels in an M4 aluminium XC trail bike designed just for women. The all-new Jett 29 Comp hardtail features Women's XC 29er Geometry, RockShox XC32 TK SL 29 fork, and Shimano Deore drivetrain.</description>
+<bullets><bullet>Fully butted, smooth-welded M4 Premium Aluminium frame with Women's XC 29er Geometry delivers a confident and lightweight ride, with integrated headset for precision handling</bullet>
+<bullet>RockShox XC32 80mm-travel 29" fork with rebound/preload adjustment, lockout, and custom tunability delivers versatility over varying terrain; size 15" has 51mm offset fork, sizes 17" and 19" have standard 46mm offset</bullet>
+<bullet>Custom SRAM S-1250 XC double crankset with GXP spindle for smooth pedalling performance; Shimano Deore rear derailleur for precise shifts</bullet>
+<bullet>Tektro Gemini hydraulic disc brakes with 160mm rotors provide simple, powerful, and dependable stopping power</bullet>
+<bullet>Women's Body Geometry Riva Comp saddle features a women's cutout and plush seating area for all-day riding comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>91814-5002	JETT COMP 29	SIL/MOTO GRN	S</sku>
+<sku>91814-5003			M</sku>
+<sku>91814-5004			L</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized Jett M4 Premium Aluminium, Women's XC 29er Geometry and tubesets, fully butted w/ smooth welds, integrated headset, forged post-mount 160mm dropouts w/ replaceable hanger, disc only</frame>
+<fork>FORK	RockShox XC32 TK 29, TurnKey hydraulic damping w/ lockout, coil spring w/ custom women's spring weights, 1-1/8" alloy steerer, mag disc only post-mount lower, 30mm steel stanchions, preload and rebound adj., 80mm travel, SM/15: 51mm offset, MD/17 and LG/19: 46mm offset</fork>
+<headset>HEADSET	1-1/8" threadless, Campy style, integrated full cartridge bearings</headset>
+<stem>STEM	Specialized 3D forged 6061 alloy, 4-bolt clamp, 7-degree rise, 31.8mm</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, double-butted 6061 alloy, 660mm wide, 10-degree backsweep, 4-degree upsweep, 31.8mm</handlebars>
+<grips>GRIPS	Specialized Women's Body Geometry XC Contour, Kraton w/ gel, closed end, 120mm, lock-on</grips>
+<front_brake>FRONT BRAKE	Tektro Gemini, hydraulic disc, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Tektro Gemini, hydraulic disc, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Tektro Gemini, hydraulic lever</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	SRAM X5, 10-speed, 34.9mm clamp</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Deore, 10-speed, SGS cage</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano Deore, 10-speed Rapidfire Plus, w/ optical display</shift_levers>
+<cassette>CASSETTE	SRAM PG-1030, 10-speed, 11-36</cassette>
+<chain>CHAIN	KMC X10</chain>
+<crankset>CRANKSET	Custom SRAM S-1250, 10-speed XC double, GXP</crankset>
+<chainrings>CHAINRINGS	36/22</chainrings>
+<bottom_bracket>BOTTOM BRACKET	SRAM GXP BB for 2pc., 73mm shell</bottom_bracket>
+<pedals>PEDALS	Alloy, 1pc. body and cage, w/ reflectors, 9/16"</pedals>
+<rims>RIMS	Stout Disc 29", alloy double-wall, 26mm, pin joint, 36h</rims>
+<front_hub>FRONT HUB	Specialized disc, alloy, Hi Lo flange, cartridge bearings, steel axle, QR, 36h</front_hub>
+<rear_hub>REAR HUB	Specialized disc, alloy, Hi Lo flange, cartridge bearings, steel axle, steel cassette body, QR, 36h</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Ground Control, 29x2.1", aramid bead, 60TPI</front_tire>
+<rear_tire>REAR TYRE	Specialized Ground Control, 29x2.1", aramid bead, 60TPI</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Comp Women's, hollow Cr-Mo rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm, QR, brass washer</seat_binder></specs></skus_specs>
+<colorways><colorway_name>SIL/MOTO GRN</colorway_name></colorways>
+<images><image href="file:///91814-50_JETT_COMP 29_SIL MOTO GRN.jpg"/></images>
+<geos><geo_heading><geo_name>JETT 29</geo_name>
+<geo_size>Size	15.0	17.0	19.0</geo_size></geo_heading>
+<geo><seat_tube_length_center_to_top>Seat Tube Length, Center to Top (mm)	381 	431.8	482.6</seat_tube_length_center_to_top>
+<top_tube_length_horiz>Top Tube Length (Horizontal) (mm)	552 	575 	595 </top_tube_length_horiz>
+<top_tube_length_actual>Top Tube Length (Actual) (mm)	530 	549 	570 </top_tube_length_actual>
+<chainstay_length>Chainstay Length (mm)	442 	442 	442 </chainstay_length>
+<bottom_bracket_drop>Bottom Bracket Drop (mm)	63.5	63.5	63.5</bottom_bracket_drop>
+<bottom_bracket_height>Bottom Bracket Height (mm)	305 	305 	305 </bottom_bracket_height>
+<head_tube_length>Head Tube Length (mm)	90 	100 	115 </head_tube_length>
+<head_tube_angle>Head Tube Angle (deg)	70.5	71 	71 </head_tube_angle>
+<seat_tube_angle_actual>Seat Tube Angle (Actual) (deg)	71 	71 	71 </seat_tube_angle_actual>
+<seat_tube_angle_effective>Seat Tube Angle (Effective) (deg)	73.5	73.5	73.5</seat_tube_angle_effective>
+<wheel_base>Wheel Base (mm)	1056 	1068 	1089 </wheel_base>
+<stack>Stack (mm)	590 	604 	618 </stack>
+<reach>Reach (mm)	377 	396 	412 </reach>
+<standover_height>Standover Height (mm)	710 	741 	775 </standover_height>
+<handlebar_width>Handlebar Width (mm)	660 	660 	660 </handlebar_width>
+<stem_length>Stem Length (mm)	60 	75 	75 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	170 </crank_length>
+<seatpost_length>Seatpost Length (mm)	350 	350 	400 </seatpost_length></geo></geos>
+</product>
+<product>
+<product_id>14JETJETT29</product_id>
+<display_name>Jett 29</display_name>
+<description>Jett provides the smooth ride and improved handling of 29" wheels in an M4 aluminium XC trail bike designed just for women. The all-new Jett 29 Comp hardtail features Women's XC 29er Geometry, custom-tuned 80mm-travel RockShox 29 fork, and Tektro Draco hydraulic disc brakes with women's shorter reach levers for precise braking and durability.</description>
+<bullets><bullet>Fully butted, smooth-welded M4 Premium Aluminium frame with Women's XC 29er Geometry delivers a confident and lightweight ride, with integrated headset for precision handling</bullet>
+<bullet>Custom-tuned 80mm-travel RockShox 29" fork with hydraulic damping, lockout, and women's spring weights delivers the supple ride qualities of a premium suspension fork</bullet>
+<bullet>Lightweight and durable double-wall alloy rims are tough enough to handle the rough stuff</bullet>
+<bullet>Custom Samox crankset with forged alloy arms and Octalink-splined BB interface means greater durability and better shifting performance</bullet>
+<bullet>Tektro Draco dual-piston hydraulic disc brakes and women's shorter reach levers assure precise braking and durability</bullet>
+<bullet>Women's Body Geometry Riva Comp saddle features a women's cutout and plush seating area for all-day riding comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>91814-7002	JETT 29	CHAR/TEAL	S</sku>
+<sku>91814-7003			M</sku>
+<sku>91814-7004			L</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized Jett M4 Premium Aluminium, Women's XC 29er Geometry and tubesets, fully butted w/ smooth welds, integrated headset, forged post-mount 160mm dropouts w/ replaceable hanger, disc only</frame>
+<fork>FORK	RockShox XC28 29, TurnKey hydraulic damping w/ lockout, coil spring w/ custom women's spring weights, 1-1/8" alloy steerer, mag disc only post-mount lower, 28mm steel stanchions, preload and rebound adj., 80mm travel, SM/15: 51mm offset, MD/17 and LG/19: 46mm offset</fork>
+<headset>HEADSET	1-1/8" threadless, Campy style, integrated full cartridge bearings</headset>
+<stem>STEM	Specialized 3D forged alloy, 4-bolt clamp, 6-degree rise, 31.8mm</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, double-butted 6061 alloy, 660mm wide, 10-degree backsweep, 4-degree upsweep, 31.8mm</handlebars>
+<grips>GRIPS	Specialized Women's Body Geometry XCT, Kraton w/ gel, closed end, lock-on</grips>
+<front_brake>FRONT BRAKE	Tektro Draco 2, hydraulic disc, dual piston, Light Wave style rotor, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Tektro Draco 2, hydraulic disc, dual piston, Light Wave style rotor, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Tektro Draco 2, hydraulic lever, women's shorter reach</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	SRAM X5, 10-speed, 34.9mm clamp</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	SRAM X5, 10-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano Alivio, 9-speed Rapidfire Plus, w/ optical display</shift_levers>
+<cassette>CASSETTE	Shimano HG-20, 9-speed, 11-34</cassette>
+<chain>CHAIN	KMC X9</chain>
+<crankset>CRANKSET	Custom Samox, 9-speed</crankset>
+<chainrings>CHAINRINGS	44/32/22, steel</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Shimano, Octalink spline, cartridge bearings, 73mm shell</bottom_bracket>
+<pedals>PEDALS	Composite platform, w/ reflectors, 9/16"</pedals>
+<rims>RIMS	Stout Disc 29", alloy double-wall, 26mm, pin joint, 36h</rims>
+<front_hub>FRONT HUB	Specialized disc, alloy, Hi Lo flange, cartridge bearings, steel axle, QR, 36h</front_hub>
+<rear_hub>REAR HUB	Specialized disc, alloy, Hi Lo flange, cartridge bearings, steel axle, steel cassette body, QR, 36h</rear_hub>
+<spokes>SPOKES	Stainless, 14g (2.0mm)</spokes>
+<front_tire>FRONT TYRE	Specialized Ground Control Sport, 29x2.1", wire bead, 60TPI</front_tire>
+<rear_tire>REAR TYRE	Specialized Ground Control Sport, 29x2.1", wire bead, 60TPI</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Specialized Body Geometry Riva Comp Women's, hollow Cr-Mo rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm, QR, brass washer</seat_binder></specs></skus_specs>
+<colorways><colorway_name>CHAR/TEAL</colorway_name></colorways>
+<images><image href="file:///91814-70_JETT_29_CHAR TEAL.jpg"/></images>
+<geos><geo_heading><geo_name>JETT 29</geo_name>
+<geo_size>Size	15.0	17.0	19.0</geo_size></geo_heading>
+<geo><seat_tube_length_center_to_top>Seat Tube Length, Center to Top (mm)	381 	431.8	482.6</seat_tube_length_center_to_top>
+<top_tube_length_horiz>Top Tube Length (Horizontal) (mm)	552 	575 	595 </top_tube_length_horiz>
+<top_tube_length_actual>Top Tube Length (Actual) (mm)	530 	549 	570 </top_tube_length_actual>
+<chainstay_length>Chainstay Length (mm)	442 	442 	442 </chainstay_length>
+<bottom_bracket_drop>Bottom Bracket Drop (mm)	63.5	63.5	63.5</bottom_bracket_drop>
+<bottom_bracket_height>Bottom Bracket Height (mm)	305 	305 	305 </bottom_bracket_height>
+<head_tube_length>Head Tube Length (mm)	90 	100 	115 </head_tube_length>
+<head_tube_angle>Head Tube Angle (deg)	70.5	71 	71 </head_tube_angle>
+<seat_tube_angle_actual>Seat Tube Angle (Actual) (deg)	71 	71 	71 </seat_tube_angle_actual>
+<seat_tube_angle_effective>Seat Tube Angle (Effective) (deg)	73.5	73.5	73.5</seat_tube_angle_effective>
+<wheel_base>Wheel Base (mm)	1056 	1068 	1089 </wheel_base>
+<stack>Stack (mm)	590 	604 	618 </stack>
+<reach>Reach (mm)	377 	396 	412 </reach>
+<standover_height>Standover Height (mm)	710 	741 	775 </standover_height>
+<handlebar_width>Handlebar Width (mm)	660 	660 	660 </handlebar_width>
+<stem_length>Stem Length (mm)	60 	75 	75 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	170 </crank_length>
+<seatpost_length>Seatpost Length (mm)	350 	350 	400 </seatpost_length></geo></geos>
+</product>
+</products>
+</category>
+</categories>
+</bikes>
+</root>

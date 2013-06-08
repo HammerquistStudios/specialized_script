@@ -1,0 +1,296 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<root>
+<bikes>
+<categories>
+<category>
+<category_id>14CrossTrail</category_id>
+<category_name>CrossTrail</category_name>
+<products>
+<product>
+<product_id>14CTCROSSTRAILCOMPDISC</product_id>
+<display_name>Crosstrail Comp Disc</display_name>
+<description>Just roll out of your front door for after work and weekend adventures. The Crosstrail Comp Disc features reliable components, like the 50mm-travel fork featuring lockout, Shimano hydraulic disc brakes, and SRAM X7 rear derailleur.</description>
+<bullets><bullet>Smooth-welded M4 Premium Aluminium disc frame plus custom Suntour NCXi 50mm-travel fork with lockout for lightweight confidence on any surface, with fender/rack braze-ons for versatility</bullet>
+<bullet>SRAM 2X10 crankset with 48/32 rings for lightweight, wide-range gearing and spot-on shifting every time</bullet>
+<bullet>Shimano hydraulic disc brakes assure solid, worry-free braking performance under any conditions</bullet>
+<bullet>SRAM 2X10 drivetrain plus SRAM X7 10-speed rear derailleur provide crisp shifting and reliable performance</bullet>
+<bullet>Sporty yet comfortable Body Geometry Targa Comp fitness saddle with light, durable hollow Cr-Mo rails</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>92414-4102	CT COMP DISC	GUN/ORG/WHT	S</sku>
+<sku>92414-4103			M</sku>
+<sku>92414-4104			L</sku>
+<sku>92414-4105			XL</sku>
+<sku>92414-4106			XXL</sku>
+<sku>92E4-4102	CT COMP DISC	WHT/BLK/RED	S</sku>
+<sku>92E4-4103			M</sku>
+<sku>92E4-4104			L</sku>
+<sku>92E4-4105			XL</sku>
+<sku>92E4-4106			XXL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized M4 Premium Aluminium, double-butted w/ smooth welds, fender/rack braze-ons, forged dropouts, kickstand mount</frame>
+<fork>FORK	SR Suntour NCXi Coil, magnesium lower, custom integrated fork crown, hydraulic lockout, 50mm travel</fork>
+<headset>HEADSET	1-1/8" FSA Campy style, integrated cartridge, 8mm alloy cone spacer</headset>
+<stem>STEM	Specialized 3D forged alloy, 10-degree rise, 31.8mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, double-butted alloy, 10-degree backsweep, 31.8mm</handlebars>
+<grips>GRIPS	Specialized Body Geometry XCT, dual compound, lock-on</grips>
+<front_brake>FRONT BRAKE	Shimano BR-M446, hydraulic disc, dual piston, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Shimano BR-M446, hydraulic disc, dual piston, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Shimano, hydraulic lever</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	SRAM X7, top-swing, dual-pull</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	SRAM X7, 10-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	SRAM SL-500, 10-speed</shift_levers>
+<cassette>CASSETTE	SRAM PG-1030, 10-speed, 11-36</cassette>
+<chain>CHAIN	KMC X10</chain>
+<crankset>CRANKSET	SRAM S-620, 48/32, 10-speed</crankset>
+<chainrings>CHAINRINGS	48/32</chainrings>
+<bottom_bracket>BOTTOM BRACKET	SRAM Power Spline</bottom_bracket>
+<pedals>PEDALS	Alloy, loose ball, w/ reflectors</pedals>
+<rims>RIMS	Alloy double-wall, sleeved rim, 32h</rims>
+<front_hub>FRONT HUB	Disc, Hi Lo flange, machined disc side, loose ball, dual-lock nuts w/ 19mm contact side, QR</front_hub>
+<rear_hub>REAR HUB	Disc, Hi Lo flange, machined disc mount, double-sealed, loose ball, ground race, dual-lock nuts w/ 19mm contact side, QR</rear_hub>
+<front_tire>FRONT TYRE	Specialized Trigger Sport, 60TPI, wire bead, 700x38c</front_tire>
+<rear_tire>REAR TYRE	Specialized Trigger Sport, 60TPI, wire bead, 700x38c</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Body Geometry Targa Comp, Cr-Mo rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>GUN/ORG/WHT</colorway_name>
+<colorway_name>WHT/BLK/RED</colorway_name></colorways>
+<images><image href="file:///92414-41_CT_COMP DISC_GUN ORG WHT.jpg"/>
+<image href="file:///92E4-41_CT_COMP DISC_WHT BLK RED.jpg"/></images>
+<geos><geo_heading><geo_name>CROSSTRAIL A1/CROSSOVER A1</geo_name>
+<geo_size>Size	S	M	L	XL	XXL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	394.0	445.0	483.0	533.0	584.0</seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	575.0	585.0	600.0	615.0	625.0</top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	60.0	60.0	60.0	60.0	60.0</b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445.0	445.0	445.0	445.0	445.0</chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	73.0	73.0	73.0	73.0	73.0</seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.5	70.5	70.5	70.5	70.5</head_tube_angle>
+<fork_rake>Fork Rake (mm)	38.0	38.0	38.0	38.0	38.0</fork_rake>
+<trail>Trail (mm)	88.0	88.0	88.0	88.0	88.0</trail>
+<front_center>Front-Center (mm)	626.0	636.0	652.0	668.0	678.0</front_center>
+<wheelbase>Wheelbase (mm)	1064.0	1074.0	1090.0	1106.0	1117.0</wheelbase>
+<stand_over_height>Stand-Over Height (mm)	745.0	781.0	809.0	842.0	877.0</stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	90.0	105.0	120.0	135.0	155.0</head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	660.0	660.0	660.0	660.0	660.0</handle_bar_width>
+<stem_length>Stem Length (mm)	70.0	80.0	80.0	80.0	90.0</stem_length>
+<crank_length>Crank Length (mm)	170.0	170.0	175.0	175.0	175.0</crank_length>
+<seat_post_length>Seat-Post Length (mm)	300.0	350.0	350.0	350.0	350.0</seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14CTCROSSTRAILSPORTDISC</product_id>
+<display_name>Crosstrail Sport Disc</display_name>
+<description>The Crosstrail Sport Disc is up for all your after work rides and weekend adventures, regardless of the terrain, with fast rolling but confident 38c tyres and 60mm of front suspension featuring lockout.</description>
+<bullets><bullet>A1 Premium Aluminium frame plus custom 60mm-travel alloy Suntour NEXi fork with lockout for lightweight confidence on any surface, with fender/rack braze-ons for versatility</bullet>
+<bullet>Specialized Trigger Sport 700x38c tyres roll fast, yet have enough bite for the dirt</bullet>
+<bullet>Triple crankset for 9-speed drivetrain provides gearing for any terrain; chainguard keeps pants clean</bullet>
+<bullet>Tektro Draco hydraulic disc brakes with dual pistons and forged callipers assure precision braking and durability</bullet>
+<bullet>Sporty yet comfortable Body Geometry Targa Sport fitness saddle</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>82414-6502	CT SPORT DISC	DRM SIL/BLK/RED	S</sku>
+<sku>82414-6503			M</sku>
+<sku>82414-6504			L</sku>
+<sku>82414-6505			XL</sku>
+<sku>82414-6506			XXL</sku>
+<sku>82E4-6202	CT SPORT DISC	BLK/TI/CHAR	S</sku>
+<sku>82E4-6203			M</sku>
+<sku>82E4-6204			L</sku>
+<sku>82E4-6205			XL</sku>
+<sku>82E4-6206			XXL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized A1 Premium Aluminium, double-butted w/ fender/rack braze-ons, forged dropouts, kickstand mount</frame>
+<fork>FORK	SR Suntour NEXi Coil, aluminium lower, custom integrated fork crown, mechanical lockout, 60mm travel</fork>
+<headset>HEADSET	1-1/8" FSA Ahead, semi-integrated, 8mm cone spacer</headset>
+<stem>STEM	Alloy, 4-bolt, 10-degree rise, 25.4mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized riser bar, alloy, 8-degree backsweep, 25mm rise, 25.4mm</handlebars>
+<grips>GRIPS	Specialized Body Geometry XCT, dual compound, lock-on</grips>
+<front_brake>FRONT BRAKE	Tektro Draco, hydraulic disc, dual piston, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Tektro Draco, hydraulic disc, dual piston, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Tektro Draco, hydraulic lever</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano M390, top-swing, dual-pull</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Acera, 9-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano SL-M390, Rapidfire</shift_levers>
+<cassette>CASSETTE	Shimano, 9-speed, 11-32</cassette>
+<chain>CHAIN	KMC X9</chain>
+<crankset>CRANKSET	SR Suntour XCR, 9-speed, square spindle, w/ chainguard</crankset>
+<chainrings>CHAINRINGS	48/36/26, w/ chainguard</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Cartridge bearings, square spindle, capless bolts</bottom_bracket>
+<pedals>PEDALS	Composite plastic body, loose ball, w/ reflectors</pedals>
+<rims>RIMS	Alloy double-wall, 32h</rims>
+<front_hub>FRONT HUB	Disc, double-sealed, ground race, dual-lock nuts w/ 17mm contact side, 5mm QR, round disc mount</front_hub>
+<rear_hub>REAR HUB	Disc, double-sealed, loose ball, ground race, dual-lock nuts w/ 19mm contact side, QR</rear_hub>
+<front_tire>FRONT TYRE	Specialized Trigger Sport, 60TPI, wire bead, 700x38c</front_tire>
+<rear_tire>REAR TYRE	Specialized Trigger Sport, 60TPI, wire bead, 700x38c</rear_tire>
+<inner_tubes>INNER TUBES	Standard Schrader valve</inner_tubes>
+<saddle>SADDLE	Body Geometry Targa Sport, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>DRM SIL/BLK/RED</colorway_name>
+<colorway_name>BLK/TI/CHAR</colorway_name></colorways>
+<images><image href="file:///82414-65_CT_SPORT DISC_DRM SIL BLK RED.jpg"/>
+<image href="file:///82E4-62_CT_SPORT DISC_BLK TI CHAR.jpg"/></images>
+<geos><geo_heading><geo_name>CROSSTRAIL A1/CROSSOVER A1</geo_name>
+<geo_size>Size	S	M	L	XL	XXL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	394.0	445.0	483.0	533.0	584.0</seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	575.0	585.0	600.0	615.0	625.0</top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	60.0	60.0	60.0	60.0	60.0</b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445.0	445.0	445.0	445.0	445.0</chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	73.0	73.0	73.0	73.0	73.0</seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.5	70.5	70.5	70.5	70.5</head_tube_angle>
+<fork_rake>Fork Rake (mm)	38.0	38.0	38.0	38.0	38.0</fork_rake>
+<trail>Trail (mm)	88.0	88.0	88.0	88.0	88.0</trail>
+<front_center>Front-Center (mm)	626.0	636.0	652.0	668.0	678.0</front_center>
+<wheelbase>Wheelbase (mm)	1064.0	1074.0	1090.0	1106.0	1117.0</wheelbase>
+<stand_over_height>Stand-Over Height (mm)	745.0	781.0	809.0	842.0	877.0</stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	90.0	105.0	120.0	135.0	155.0</head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	660.0	660.0	660.0	660.0	660.0</handle_bar_width>
+<stem_length>Stem Length (mm)	70.0	80.0	80.0	80.0	90.0</stem_length>
+<crank_length>Crank Length (mm)	170.0	170.0	175.0	175.0	175.0</crank_length>
+<seat_post_length>Seat-Post Length (mm)	300.0	350.0	350.0	350.0	350.0</seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14CTCROSSTRAILDISC</product_id>
+<display_name>Crosstrail Disc</display_name>
+<description>The Crosstrail Disc is up for all your after work rides and weekend adventures, regardless of the terrain, with fast rolling but confident 38c tyres and 60mm of front suspension featuring lockout.</description>
+<bullets><bullet>A1 Premium Aluminium frame plus custom 60mm-travel alloy Suntour NEXi fork for lightweight confidence on any surface, with fender/rack braze-ons for versatility</bullet>
+<bullet>Specialized Trigger Sport 700x38c tyres roll fast, yet have enough bite for the trail</bullet>
+<bullet>Tektro Novela mechanical disc brakes for solid braking in any weather</bullet>
+<bullet>Sporty yet comfortable Body Geometry Targa Sport fitness saddle</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>82414-7702	CT DISC	BLU/YEL/BLK	S</sku>
+<sku>82414-7703			M</sku>
+<sku>82414-7704			L</sku>
+<sku>82414-7705			XL</sku>
+<sku>82414-7706			XXL</sku>
+<sku>82E4-7202	CT DISC	BLK/BLU/CHAR	S</sku>
+<sku>82E4-7203			M</sku>
+<sku>82E4-7204			L</sku>
+<sku>82E4-7205			XL</sku>
+<sku>82E4-7206			XXL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized A1 Premium Aluminium, double-butted w/ fender/rack braze-ons, forged dropouts, kickstand mount</frame>
+<fork>FORK	SR Suntour NEXi Coil, aluminium lower, custom integrated fork crown, mechanical lockout, 60mm travel</fork>
+<headset>HEADSET	1-1/8" FSA Ahead, semi-integrated, 8mm cone spacer</headset>
+<stem>STEM	Alloy, 4-bolt, 10-degree rise, 25.4mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized riser bar, alloy, 8-degree backsweep, 25mm rise, 25.4mm</handlebars>
+<grips>GRIPS	Specialized Body Geometry XCT, dual compound, lock-on</grips>
+<front_brake>FRONT BRAKE	Tektro Novela, mechanical disc, dual pad angle adj., 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Tektro Novela, mechanical disc, dual pad angle adj., 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Tektro, mechanical lever</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano FDM-191</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Altus, 8-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano SL-M310, Rapidfire</shift_levers>
+<cassette>CASSETTE	Shimano, 8-speed, 11-32</cassette>
+<chain>CHAIN	KMC X8</chain>
+<crankset>CRANKSET	SR Suntour XCT, 8-speed, square taper spindle, replaceable outer ring, w/ chainguard</crankset>
+<chainrings>CHAINRINGS	48/38/28, w/ chainguard</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Cartridge bearings, square spindle, capless bolts</bottom_bracket>
+<pedals>PEDALS	Composite plastic body, loose ball, w/ reflectors</pedals>
+<rims>RIMS	Alloy double-wall, 32h</rims>
+<front_hub>FRONT HUB	Disc, double-sealed, ground race, dual-lock nuts w/ 17mm contact side, 5mm QR, round disc mount</front_hub>
+<rear_hub>REAR HUB	Disc, double-sealed, loose ball, ground race, dual-lock nuts w/ 19mm contact side, QR</rear_hub>
+<front_tire>FRONT TYRE	Specialized Trigger Sport, 60TPI, wire bead, 700x38c</front_tire>
+<rear_tire>REAR TYRE	Specialized Trigger Sport, 60TPI, wire bead, 700x38c</rear_tire>
+<inner_tubes>INNER TUBES	Standard Schrader valve</inner_tubes>
+<saddle>SADDLE	Body Geometry Targa Sport, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>BLU/YEL/BLK</colorway_name>
+<colorway_name>BLK/BLU/CHAR</colorway_name></colorways>
+<images><image href="file:///82414-77_CT_DISC_BLU YEL BLK.jpg"/>
+<image href="file:///82E4-72_CT_DISC_BLK BLU CHAR.jpg"/></images>
+<geos><geo_heading><geo_name>CROSSTRAIL A1/CROSSOVER A1</geo_name>
+<geo_size>Size	S	M	L	XL	XXL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	394.0	445.0	483.0	533.0	584.0</seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	575.0	585.0	600.0	615.0	625.0</top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	60.0	60.0	60.0	60.0	60.0</b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445.0	445.0	445.0	445.0	445.0</chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	73.0	73.0	73.0	73.0	73.0</seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.5	70.5	70.5	70.5	70.5</head_tube_angle>
+<fork_rake>Fork Rake (mm)	38.0	38.0	38.0	38.0	38.0</fork_rake>
+<trail>Trail (mm)	88.0	88.0	88.0	88.0	88.0</trail>
+<front_center>Front-Center (mm)	626.0	636.0	652.0	668.0	678.0</front_center>
+<wheelbase>Wheelbase (mm)	1064.0	1074.0	1090.0	1106.0	1117.0</wheelbase>
+<stand_over_height>Stand-Over Height (mm)	745.0	781.0	809.0	842.0	877.0</stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	90.0	105.0	120.0	135.0	155.0</head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	660.0	660.0	660.0	660.0	660.0</handle_bar_width>
+<stem_length>Stem Length (mm)	70.0	80.0	80.0	80.0	90.0</stem_length>
+<crank_length>Crank Length (mm)	170.0	170.0	175.0	175.0	175.0</crank_length>
+<seat_post_length>Seat-Post Length (mm)	300.0	350.0	350.0	350.0	350.0</seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14CTCROSSTRAIL</product_id>
+<display_name>Crosstrail</display_name>
+<description>The Crosstrail is up for all your after work rides and weekend adventures, regardless of the terrain, with fast rolling but confident 38c tyres and 60mm of front suspension featuring lockout.</description>
+<bullets><bullet>A1 Premium Aluminium frame plus custom 60mm-travel alloy Suntour NEXi fork for lightweight confidence on any surface, with fender/rack braze-ons for versatility</bullet>
+<bullet>Specialized Trigger Sport 700x38c tyres roll fast, yet have enough bite for the dirt</bullet>
+<bullet>Lightweight alloy bar gently rises to encourage a comfortable and confident athletic position</bullet>
+<bullet>Alloy linear pull brakes provide easily adjustable, uncomplicated stopping power</bullet>
+<bullet>Sporty yet comfortable Body Geometry Targa Sport fitness saddle</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>82414-7502	CT	DRM SIL/HYP GRN/CYAN	S</sku>
+<sku>82414-7503			M</sku>
+<sku>82414-7504			L</sku>
+<sku>82414-7505			XL</sku>
+<sku>82414-7506			XXL</sku>
+<sku>82E4-7102	CT	BLK/WHT	S</sku>
+<sku>82E4-7103			M</sku>
+<sku>82E4-7104			L</sku>
+<sku>82E4-7105			XL</sku>
+<sku>82E4-7106			XXL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized A1 Premium Aluminium, double-butted w/ fender/rack braze-ons, forged dropouts, kickstand mount</frame>
+<fork>FORK	SR Suntour NEXi Coil, aluminium lower, custom integrated fork crown, mechanical lockout, 60mm travel</fork>
+<headset>HEADSET	1-1/8" FSA Ahead, semi-integrated, 8mm cone spacer</headset>
+<stem>STEM	Alloy, 4-bolt, 10-degree rise, 25.4mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized riser bar, alloy, 8-degree backsweep, 25mm rise, 25.4mm</handlebars>
+<grips>GRIPS	Specialized Body Geometry XCT, dual compound, lock-on</grips>
+<front_brake>FRONT BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</front_brake>
+<rear_brake>REAR BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</rear_brake>
+<brake_levers>BRAKE LEVERS	Alloy V-brake, two-finger, linear pull</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano FDM-191</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Altus, 8-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano SL-M310, Rapidfire</shift_levers>
+<cassette>CASSETTE	Shimano, 8-speed, 11-32</cassette>
+<chain>CHAIN	KMC X8</chain>
+<crankset>CRANKSET	SR Suntour XCT, 8-speed, square taper spindle, replaceable outer ring, w/ chainguard</crankset>
+<chainrings>CHAINRINGS	48/38/28, w/ chainguard</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Cartridge bearings, square spindle, capless bolts</bottom_bracket>
+<pedals>PEDALS	Composite plastic body, loose ball, w/ reflectors</pedals>
+<rims>RIMS	Alloy double-wall, CNC sidewalls, 32h</rims>
+<front_hub>FRONT HUB	Double-sealed, dual-lock nuts, QR</front_hub>
+<rear_hub>REAR HUB	Double-sealed, dual-lock nuts, QR</rear_hub>
+<front_tire>FRONT TYRE	Specialized Trigger Sport, 60TPI, wire bead, 700x38c</front_tire>
+<rear_tire>REAR TYRE	Specialized Trigger Sport, 60TPI, wire bead, 700x38c</rear_tire>
+<inner_tubes>INNER TUBES	Standard Schrader valve</inner_tubes>
+<saddle>SADDLE	Body Geometry Targa Sport, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>DRM SIL/HYP GRN/CYAN</colorway_name>
+<colorway_name>BLK/WHT</colorway_name></colorways>
+<images><image href="file:///82414-75_CT_DRM SIL HYP GRN CYAN.jpg"/>
+<image href="file:///82E4-71_CT_BLK WHT.jpg"/></images>
+<geos><geo_heading><geo_name>CROSSTRAIL A1/CROSSOVER A1</geo_name>
+<geo_size>Size	S	M	L	XL	XXL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	394.0	445.0	483.0	533.0	584.0</seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	575.0	585.0	600.0	615.0	625.0</top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	60.0	60.0	60.0	60.0	60.0</b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445.0	445.0	445.0	445.0	445.0</chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	73.0	73.0	73.0	73.0	73.0</seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.5	70.5	70.5	70.5	70.5</head_tube_angle>
+<fork_rake>Fork Rake (mm)	38.0	38.0	38.0	38.0	38.0</fork_rake>
+<trail>Trail (mm)	88.0	88.0	88.0	88.0	88.0</trail>
+<front_center>Front-Center (mm)	626.0	636.0	652.0	668.0	678.0</front_center>
+<wheelbase>Wheelbase (mm)	1064.0	1074.0	1090.0	1106.0	1117.0</wheelbase>
+<stand_over_height>Stand-Over Height (mm)	745.0	781.0	809.0	842.0	877.0</stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	90.0	105.0	120.0	135.0	155.0</head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	660.0	660.0	660.0	660.0	660.0</handle_bar_width>
+<stem_length>Stem Length (mm)	70.0	80.0	80.0	80.0	90.0</stem_length>
+<crank_length>Crank Length (mm)	170.0	170.0	175.0	175.0	175.0</crank_length>
+<seat_post_length>Seat-Post Length (mm)	300.0	350.0	350.0	350.0	350.0</seat_post_length></geo></geos>
+</product>
+</products>
+</category>
+</categories>
+</bikes>
+</root>

@@ -1,0 +1,43 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<index>
+<categories>
+<category>
+<category_id>14CrossTrail</category_id>
+<category_name>CrossTrail</category_name>
+<products>
+<product>
+<product_id>14CTCROSSTRAILCOMPDISC</product_id>
+<display_name_index>Crosstrail Comp Disc</display_name_index>
+<images><image href="file:///92414-41_CT_COMP DISC_GUN ORG WHT.jpg"/>
+<image href="file:///92414-41_CT_COMP DISC_GUN ORG WHT.jpg"/>
+<image href="file:///92E4-41_CT_COMP DISC_WHT BLK RED.jpg"/></images>
+<next_model>Crosstrail Comp Disc</next_model>
+</product>
+<product>
+<product_id>14CTCROSSTRAILSPORTDISC</product_id>
+<display_name_index>Crosstrail Sport Disc</display_name_index>
+<images><image href="file:///82414-65_CT_SPORT DISC_DRM SIL BLK RED.jpg"/>
+<image href="file:///82414-65_CT_SPORT DISC_DRM SIL BLK RED.jpg"/>
+<image href="file:///82E4-62_CT_SPORT DISC_BLK TI CHAR.jpg"/></images>
+<next_model>Crosstrail Sport Disc</next_model>
+</product>
+<product>
+<product_id>14CTCROSSTRAILDISC</product_id>
+<display_name_index>Crosstrail Disc</display_name_index>
+<images><image href="file:///82414-77_CT_DISC_BLU YEL BLK.jpg"/>
+<image href="file:///82414-77_CT_DISC_BLU YEL BLK.jpg"/>
+<image href="file:///82E4-72_CT_DISC_BLK BLU CHAR.jpg"/></images>
+<next_model>Crosstrail Disc</next_model>
+</product>
+<product>
+<product_id>14CTCROSSTRAIL</product_id>
+<display_name_index>Crosstrail</display_name_index>
+<images><image href="file:///82414-75_CT_DRM SIL HYP GRN CYAN.jpg"/>
+<image href="file:///82414-75_CT_DRM SIL HYP GRN CYAN.jpg"/>
+<image href="file:///82E4-71_CT_BLK WHT.jpg"/></images>
+<next_model>Crosstrail</next_model>
+</product>
+</products>
+</category>
+</categories>
+</index>

@@ -1,0 +1,422 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<root>
+<bikes>
+<categories>
+<category>
+<category_id>14Sirrus</category_id>
+<category_name>Sirrus</category_name>
+<products>
+<product>
+<product_id>14SIRRUSSirrusPro</product_id>
+<display_name>Sirrus Pro</display_name>
+<description>With a SL4 FACT 8r frame and light, efficient 2X10 drivetrain, the Sirrus Pro is up for any challenge and will do it as fast you want, with the added benefit of flat bar convenience for getting around in urban environments.</description>
+<bullets><bullet>Specialized FACT 8r carbon frame with Zertz provides a lightweight, compliant ride for maximum speed and comfort</bullet>
+<bullet>Specialized FACT full monocoque fork provides a lightweight, compliant and great handling front end</bullet>
+<bullet>FSA SL-K carbon compact crankset with 50/34 configuration for lightweight, wide-range gearing</bullet>
+<bullet>Adjustable, 4-position, oversized forged alloy stem with 31.8mm bar clamp for strength and versatile positioning; plus Body Geometry Targa gel grips lock on and help alleviate hand pain and tingling fingers</bullet>
+<bullet>Sporty yet comfortable Body Geometry Targa Comp fitness saddle with light, durable hollow Cr-Mo rails</bullet>
+<bullet>Specialized FACT CG-R seatpost allows for lightweight performance with additional compliance benefits</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>90914-1002	SIRRUS PRO	CARBON DISC WHT/CARB/RED	52</sku>
+<sku>90914-1003			54</sku>
+<sku>90914-1004			56</sku>
+<sku>90914-1005			58</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized SL4 FACT 8r carbon w/ Zertz inserts, 1-1/8" - 1-3/8" head tube, OSBB</frame>
+<fork>FORK	Specialized FACT carbon full monocoque w/ Zertz inserts</fork>
+<headset>HEADSET	1-1/8" FSA Campy style, integrated cartridge, 15mm alloy cone spacer</headset>
+<stem>STEM	Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt, 31.8mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, double-butted alloy, 6-degree backsweep, 31.8mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Targa, lock-on w/ integrated bar end</tape>
+<front_brake>FRONT BRAKE	Formula C1, hydraulic disc, dual piston, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Formula C1, hydraulic disc, dual piston, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Formula C1, hydraulic lever</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano 105</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Ultegra</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano SL-R780, Rapidfire</shift_levers>
+<cassette>CASSETTE	Shimano HG-62, 10-speed, 11-32</cassette>
+<chain>CHAIN	KMC X10</chain>
+<crankset>CRANKSET	FSA SL-K, carbon arms, OSBB, alloy rings</crankset>
+<chainrings>CHAINRINGS	50/34</chainrings>
+<bottom_bracket>BOTTOM BRACKET	FSA, OSBB</bottom_bracket>
+<pedals>PEDALS	Sirrus, 1.5mm Varus angle, nylon body, symmetric alloy cage, low profile bearing system, toe clip capable</pedals>
+<front_wheel>FRONT WHEEL	AXIS 4.0 Disc</front_wheel>
+<rear_wheel>REAR WHEEL	AXIS 4.0 Disc</rear_wheel>
+<front_tire>FRONT TYRE	Specialized Espoir Elite, 60TPI, aramid bead, double BlackBelt protection, 700x25c</front_tire>
+<rear_tire>REAR TYRE	Specialized Espoir Elite, 60TPI, aramid bead, double BlackBelt protection, 700x25c</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Body Geometry Targa Comp, Cr-Mo rails, 143mm</saddle>
+<seatpost>SEATPOST	Specialized CG-R, FACT carbon, single bolt, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 32.6mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>WHT/CARB/RED</colorway_name></colorways>
+<images><image href="file:///90914-10_SIR_PRO CARBON DISC_WHT CARB RED.jpg"/></images>
+<geos><geo_heading><geo_name>2011 ROUBAIX COMP</geo_name>
+<geo_size>Size	49	52	54	56	58	61</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	455 	475 	495 	515 	540 	565 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	518 	537 	548 	565 	582 	600 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	73 	73 	71.5	71.5	70 	70 </b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	412 	412 	415 	415 	418 	420 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	75.5	74 	73.5	73.25	73 	72.5</seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	72 	72 	72 	72.5	72.5	73 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	49 	49 	49 	49 	49 	49 </fork_rake>
+<trail>Trail (mm)	59 	59 	59 	56 	56 	53 </trail>
+<front_center>Front-Center (mm)	582 	588 	595 	606 	621 	628 </front_center>
+<wheelbase>Wheelbase (mm)	983 	989 	1000 	1010 	1029 	1038 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	730 	756 	776 	798 	829 	851 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	125 	145 	165 	190 	225 	245 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	400 	420 	420 	420 	440 	440 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	90 	100 	100 	110 	110 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	172.5	172.5	175 	175 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	300 	350 	350 	350 	350 	350 </seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14SIRRUSSirrusExpertDisc</product_id>
+<display_name>Sirrus Expert Disc</display_name>
+<description>With a SL4 FACT 8r frame and light, efficient 2X10 drivetrain, the Sirrus Expert Disc is up for any challenge and will do it as fast you want, with the added benefit of flat bar convenience for getting around in urban environments, and powerful disc brakes for maximum stopping power.</description>
+<bullets><bullet>Specialized FACT 8r carbon frame with Zertz provides a lightweight, compliant ride for maximum speed and comfort</bullet>
+<bullet>Specialized FACT full monocoque fork provides a lightweight, compliant and great handling front end</bullet>
+<bullet>Reliable Espoir Sport, 25c road tyre with double BlackBelt puncture protection for stability and durability during high-mileage riding</bullet>
+<bullet>FSA Gossamer compact alloy crankset with 50/34 configuration for lightweight, wide-range gearing</bullet>
+<bullet>Body Geometry Targa gel grips lock on and help alleviate hand pain and tingling fingers; integrated bar ends for changing hand position included</bullet>
+<bullet>Strong, reliable, Formula dual-piston hydraulic disc brakes for sure stopping and control in any weather with any load</bullet>
+<bullet>Sporty yet comfortable Body Geometry Targa Comp fitness saddle with light, durable hollow Cr-Mo rails</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>90914-3002	SIRRUS EXPERT CARBON DISC	BLK/RED	S</sku>
+<sku>90914-3003			M</sku>
+<sku>90914-3004			L</sku>
+<sku>90914-3005			XL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized SL4 FACT 8r carbon disc, 1-1/8" head tube, threaded BB</frame>
+<fork>FORK	Specialized FACT carbon full monocoque w/ Zertz inserts</fork>
+<headset>HEADSET	1-1/8" FSA Campy style, integrated cartridge, 15mm alloy cone spacer</headset>
+<stem>STEM	Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt, 31.8mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, double-butted alloy, 10-degree backsweep, 31.8mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Targa, lock-on w/ integrated bar end</tape>
+<front_brake>FRONT BRAKE	Formula C1, hydraulic disc, dual piston, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Formula C1, hydraulic disc, dual piston, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Formula C1, hydraulic lever</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Tiagra</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano 105</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano Tiagra</shift_levers>
+<cassette>CASSETTE	Shimano HG-62, 10-speed, 11-32</cassette>
+<chain>CHAIN	KMC X10</chain>
+<crankset>CRANKSET	FSA Gossamer, forged alloy, 10-speed</crankset>
+<chainrings>CHAINRINGS	50/34</chainrings>
+<bottom_bracket>BOTTOM BRACKET	FSA, OSBB</bottom_bracket>
+<pedals>PEDALS	Sirrus, 1.5mm Varus angle, nylon body, symmetric alloy cage, low profile bearing system, toe clip capable</pedals>
+<front_wheel>FRONT WHEEL	AXIS 1.0 Disc</front_wheel>
+<rear_wheel>REAR WHEEL	AXIS 1.0 Disc</rear_wheel>
+<front_tire>FRONT TYRE	Specialized Espoir Sport, 60TPI, wire bead, double BlackBelt protection, 700x25c</front_tire>
+<rear_tire>REAR TYRE	Specialized Espoir Sport, 60TPI, wire bead, double BlackBelt protection, 700x25c</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Body Geometry Targa Comp, Cr-Mo rails, 143mm</saddle>
+<seatpost>SEATPOST	Specialized Pro, FACT carbon, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 32.6mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>BLK/RED</colorway_name></colorways>
+<images><image href="file:///90914-30_SIR_EXPERT CARBON DISC_BLK RED.jpg"/></images>
+<geos><geo_heading><geo_name>SIRRUS E5</geo_name>
+<geo_size>Size	XS	S	M	L	XL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	395 	440 	485 	530 	570 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	555 	570 	580 	600 	620 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	70 	70 	70 	70 	70 </b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445 	445 	445 	445 	445 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	73.5	73.25	73.5	73 	73 </seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.5	71 	71.5	72 	72 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	51 	51 	51 	51 	51 </fork_rake>
+<trail>Trail (mm)	69 	66 	63 	60 	60 </trail>
+<front_center>Front-Center (mm)	620 	629 	637 	646 	667 </front_center>
+<wheelbase>Wheelbase (mm)	1056 	1065 	1072 	1082 	1103 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	709 	741 	777 	812 	850 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	130 	150 	165 	190 	225 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	580 	580 	580 	580 	580 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	90 	90 	100 	100 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	175 	175 	175 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	300 	350 	350 	350 	350 </seat_post_length></geo></geos></product>
+<product>
+<product_id>14SIRRUSSirrusCompDisc</product_id>
+<display_name>Sirrus Comp Disc</display_name>
+<description>The Sirrus Comp Disc provides road bike geometry with flat bar handling so you can ride fast on longer rides, but also be stable and quick in town. The hydraulic disc brakes mean you'll have confidence to ride regardless of the weather or what you're carrying on your racks.</description>
+<bullets><bullet>Super light fully-manipulated E5 Premium Aluminium frame is built for high speed, low-fuss, and great versatility; with tapered headtube, internal routing, rack/fender mounts, and wide tyre clearance</bullet>
+<bullet>Premium Aluminium disc fork with Cr-Mo steerer; with fender mounts and ample tyre clearance for added versatility</bullet>
+<bullet>Double BlackBelt protection and a wider 28c profile make the Specialized Espoir Sport tyres perfect for city or open road use</bullet>
+<bullet>FSA Omega compact alloy crankset with 50/34 configuration for lightweight, wide-range gearing</bullet>
+<bullet>Adjustable, 4-position, oversized forged alloy stem with 31.8mm bar clamp for strength and versatile positioning; plus Body Geometry Targa gel grips lock on and help alleviate hand pain and tingling fingers</bullet>
+<bullet>Strong, reliable, Tektro Draco hydraulic disc brakes for sure stopping and control in any weather with any load</bullet>
+<bullet>Sporty yet comfortable Body Geometry Targa Comp fitness saddle with light, durable hollow Cr-Mo rails</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>90914-5102	SIRRUS COMP DISC	WHT/GRY/RED	S</sku>
+<sku>90914-5103			M</sku>
+<sku>90914-5104			L</sku>
+<sku>90914-5105			XL</sku>
+<sku>90914-5202	SIRRUS COMP DISC	BLK/GRPH/NEON GRN	S</sku>
+<sku>90914-5203			M</sku>
+<sku>90914-5204			L</sku>
+<sku>90914-5205			XL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized E5 Premium Aluminium disc, fully-manipulated butted tubing w/ smooth welds, internal cable routing, tapered/integrated headset, fender/rack eyelets</frame>
+<fork>FORK	Sirrus disc, Cr-Mo steerer, aluminium crown/lowers</fork>
+<headset>HEADSET	1-1/8" FSA Campy style, integrated cartridge, 15mm alloy cone spacer</headset>
+<stem>STEM	Specialized Elite-Set, 3D forged alloy, 4-position adjustable, 4-bolt, 31.8mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, double-butted alloy, 10-degree backsweep, 31.8mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Targa, lock-on w/ integrated bar end</tape>
+<front_brake>FRONT BRAKE	Tektro Draco 2, hydraulic disc, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Tektro Draco 2, hydraulic disc, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Tektro Draco, hydraulic lever</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano 105</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano SL-R440R</shift_levers>
+<cassette>CASSETTE	Shimano HG-50, 9-speed, 11-25</cassette>
+<chain>CHAIN	KMC X9</chain>
+<crankset>CRANKSET	FSA Omega, forged alloy</crankset>
+<chainrings>CHAINRINGS	50/34</chainrings>
+<bottom_bracket>BOTTOM BRACKET	FSA, sealed bearings</bottom_bracket>
+<pedals>PEDALS	Sirrus, 1.5mm Varus angle, nylon body, symmetric alloy cage, low profile bearing system, toe clip capable</pedals>
+<front_wheel>FRONT WHEEL	AXIS 1.0 Disc</front_wheel>
+<rear_wheel>REAR WHEEL	AXIS 1.0 Disc</rear_wheel>
+<front_tire>FRONT TYRE	Specialized Espoir Sport, 60TPI, wire bead, double BlackBelt protection, 700x28c</front_tire>
+<rear_tire>REAR TYRE	Specialized Espoir Sport, 60TPI, wire bead, double BlackBelt protection, 700x28c</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Body Geometry Targa Comp, Cr-Mo rails, 143mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>WHT/GRY/RED</colorway_name>
+<colorway_name>BLK/GRPH/NEON GRN</colorway_name></colorways>
+<images><image href="file:///90914-51_SIR_COMP DISC_WHT GRY RED.jpg"/>
+<image href="file:///90914-52_SIR_COMP DISC_BLK GRPH NEON GRN.jpg"/></images>
+<geos><geo_heading><geo_name>SIRRUS E5</geo_name>
+<geo_size>Size	XS	S	M	L	XL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	395 	440 	485 	530 	570 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	555 	570 	580 	600 	620 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	70 	70 	70 	70 	70 </b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445 	445 	445 	445 	445 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	73.5	73.25	73.5	73 	73 </seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.5	71 	71.5	72 	72 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	51 	51 	51 	51 	51 </fork_rake>
+<trail>Trail (mm)	69 	66 	63 	60 	60 </trail>
+<front_center>Front-Center (mm)	620 	629 	637 	646 	667 </front_center>
+<wheelbase>Wheelbase (mm)	1056 	1065 	1072 	1082 	1103 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	709 	741 	777 	812 	850 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	130 	150 	165 	190 	225 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	580 	580 	580 	580 	580 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	90 	90 	100 	100 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	175 	175 	175 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	300 	350 	350 	350 	350 </seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14SIRRUSSirrusEliteDisc</product_id>
+<display_name>Sirrus Elite Disc</display_name>
+<description>The Sirrus Elite Disc provides road bike geometry with flat bar handling so you can ride fast on longer rides, but also be stable and quick in town. The hydraulic disc brakes mean you'll have confidence to ride regardless of the weather or what you're carrying on your racks.</description>
+<bullets><bullet>Super light fully-manipulated E5 Premium Aluminium frame is built for high speed, low-fuss, and great versatility; with tapered headtube, internal routing, rack/fender mounts, and wide tyre clearance</bullet>
+<bullet>Premium Aluminium disc fork with Cr-Mo steerer; with fender mounts and ample tyre clearance for added versatility</bullet>
+<bullet>Strong and light AXIS Classic Disc wheels</bullet>
+<bullet>Flak Jacket protection and a grooved tread make the Specialized Nimbus tyres perfect for city or open road use</bullet>
+<bullet>FSA 9-speed compact crankset with 50/34 configuration provides ample gearing and crisp shifting</bullet>
+<bullet>Body Geometry Targa gel grips lock on and help alleviate hand pain and tingling fingers</bullet>
+<bullet>Strong, reliable, Tektro Draco hydraulic disc brakes for sure stopping and control in any weather with any load</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>80914-4202	SIRRUS ELITE DISC	BLK/SLT/RED	S</sku>
+<sku>80914-4203			M</sku>
+<sku>80914-4204			L</sku>
+<sku>80914-4205			XL</sku>
+<sku>80914-4302	SIRRUS ELITE DISC	ORG/GRY/WHT	S</sku>
+<sku>80914-4303			M</sku>
+<sku>80914-4304			L</sku>
+<sku>80914-4305			XL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized E5 Premium Aluminium disc, fully-manipulated butted tubing w/ smooth welds, internal cable routing, tapered/integrated headset, fender/rack eyelets</frame>
+<fork>FORK	Sirrus disc, Cr-Mo steerer, aluminium crown/lowers</fork>
+<headset>HEADSET	1-1/8" FSA Campy style, integrated cartridge, 15mm alloy cone spacer</headset>
+<stem>STEM	Specialized 3D forged alloy, 10-degree rise, 31.8mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, alloy, 10-degree backsweep, 31.8mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Targa, lock-on</tape>
+<front_brake>FRONT BRAKE	Tektro Draco 2, hydraulic disc, 160mm rotor</front_brake>
+<rear_brake>REAR BRAKE	Tektro Draco 2, hydraulic disc, 160mm rotor</rear_brake>
+<brake_levers>BRAKE LEVERS	Tektro Draco 2, hydraulic lever</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Sora</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Tiagra</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano Sora, Rapidfire</shift_levers>
+<cassette>CASSETTE	Shimano HG-50, 9-speed, 11-30</cassette>
+<chain>CHAIN	KMC X9</chain>
+<crankset>CRANKSET	FSA Tempo, 9-speed</crankset>
+<chainrings>CHAINRINGS	50/34</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Cartridge bearings, square spindle, capless bolts</bottom_bracket>
+<pedals>PEDALS	Sirrus, 1.5mm Varus angle, nylon body, symmetric alloy cage, low profile bearing system, toe clip capable</pedals>
+<front_wheel>FRONT WHEEL	AXIS Classic Disc</front_wheel>
+<rear_wheel>REAR WHEEL	AXIS Classic Disc</rear_wheel>
+<front_tire>FRONT TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, 700x28c</front_tire>
+<rear_tire>REAR TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, 700x28c</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Body Geometry Targa Sport, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>BLK/SLT/RED</colorway_name>
+<colorway_name>ORG/GRY/WHT</colorway_name></colorways>
+<images><image href="file:///80914-42_SIR_ELITE DISC_BLK SLT RED.jpg"/>
+<image href="file:///90914-41_SIR_ELITE DISC_ORG GRY WHT.jpg"/></images>
+<geos><geo_heading><geo_name>SIRRUS E5</geo_name>
+<geo_size>Size	XS	S	M	L	XL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	395 	440 	485 	530 	570 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	555 	570 	580 	600 	620 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	70 	70 	70 	70 	70 </b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445 	445 	445 	445 	445 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	73.5	73.25	73.5	73 	73 </seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.5	71 	71.5	72 	72 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	51 	51 	51 	51 	51 </fork_rake>
+<trail>Trail (mm)	69 	66 	63 	60 	60 </trail>
+<front_center>Front-Center (mm)	620 	629 	637 	646 	667 </front_center>
+<wheelbase>Wheelbase (mm)	1056 	1065 	1072 	1082 	1103 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	709 	741 	777 	812 	850 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	130 	150 	165 	190 	225 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	580 	580 	580 	580 	580 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	90 	90 	100 	100 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	175 	175 	175 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	300 	350 	350 	350 	350 </seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14SIRRUSSirrusSport</product_id>
+<display_name>Sirrus Sport</display_name>
+<description>The Sirrus Sport provides road bike geometry with flat bar handling so you can ride fast on longer rides, but also be stable and quick in town. The 27-speed drivetrain with wide gearing allows top speed with hill climbing capabilities, too.</description>
+<bullets><bullet>A1 Premium Aluminium fully-manipulated frame offers a great ride and versatility; with rack/fender mounts and wide tyre clearance</bullet>
+<bullet>Sirrus double-wall, machined alloy rims for strength and reliable braking</bullet>
+<bullet>Flak Jacket protection and a grooved tread make the Specialized Nimbus tyres perfect for city or open road use</bullet>
+<bullet>Triple crankset for 9-speed drivetrain provides gearing for any terrain; chainguard keeps pants clean</bullet>
+<bullet>Specialized Body Geometry Targa Sport saddle has front/rear bumpers for durability and ample padding for comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>80914-6101	SIRRUS SPORT	CHAR/BLK/HYP GRN	XS</sku>
+<sku>80914-6102			S</sku>
+<sku>80914-6103			M</sku>
+<sku>80914-6104			L</sku>
+<sku>80914-6105			XL</sku>
+<sku>80914-6201	SIRRUS SPORT	RED/GRY/BLK	XS</sku>
+<sku>80914-6202			S</sku>
+<sku>80914-6203			M</sku>
+<sku>80914-6204			L</sku>
+<sku>80914-6205			XL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized A1 Premium Aluminium, fully-manipulated butted tubing, integrated lower bearing, fender/rack eyelets</frame>
+<fork>FORK	A1 Premium Aluminium, Cr-Mo steerer, fender/rack eyelets</fork>
+<headset>HEADSET	1-1/8" FSA integrated cartridge lower, external sealed upper bearings</headset>
+<stem>STEM	Alloy, 4-bolt, 20-degree rise, 25.4mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, alloy, 6-degree backsweep, 25.4mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Targa, lock-on</tape>
+<front_brake>FRONT BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</front_brake>
+<rear_brake>REAR BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</rear_brake>
+<brake_levers>BRAKE LEVERS	Alloy V-brake, two-finger, linear pull</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano Acera</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Acera, 9-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano Acera, EZ Fire</shift_levers>
+<cassette>CASSETTE	Shimano, 9-speed, 11-32</cassette>
+<chain>CHAIN	KMC X9</chain>
+<crankset>CRANKSET	SR Suntour XCR, 9-speed, square spindle</crankset>
+<chainrings>CHAINRINGS	48/36/26, w/ chainguard</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Cartridge bearings, square spindle, capless bolts</bottom_bracket>
+<pedals>PEDALS	Sirrus, 1.5mm Varus angle, nylon body, symmetric alloy cage, low profile bearing system, toe clip capable</pedals>
+<rims>RIMS	Alloy double-wall, CNC sidewalls, 32h</rims>
+<front_hub>FRONT HUB	Double-sealed, ground race, dual-lock nuts w/ 17mm contact side, 5mm QR</front_hub>
+<rear_hub>REAR HUB	Double-sealed, loose ball, dual-lock nuts</rear_hub>
+<front_tire>FRONT TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, 700x28c</front_tire>
+<rear_tire>REAR TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, 700x28c</rear_tire>
+<inner_tubes>INNER TUBES	Standard presta valve</inner_tubes>
+<saddle>SADDLE	Body Geometry Targa Sport, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>CHAR/BLK/HYP GRN</colorway_name>
+<colorway_name>RED/GRY/BLK</colorway_name></colorways>
+<images><image href="file:///80914-61_SIR_SPORT_CHAR BLK HYP GRN.jpg"/>
+<image href="file:///90914-60_SIR_SPORT_RED GRY BLK.jpg"/></images>
+<geos><geo_heading><geo_name>SIRRUS A1</geo_name>
+<geo_size>Size	XS	S	M	L	XL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	395 	440 	485 	530 	570 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	555 	570 	580 	600 	620 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	70 	70 	70 	70 	70 </b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445 	445 	445 	445 	445 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	73.5	73.25	73.5	73 	73 </seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.5	71 	71.5	72 	72 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	51 	51 	51 	51 	51 </fork_rake>
+<trail>Trail (mm)	70 	67 	63 	60 	60 </trail>
+<front_center>Front-Center (mm)	621 	629 	637 	647 	667 </front_center>
+<wheelbase>Wheelbase (mm)	1056 	1065 	1073 	1082 	1103 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	716 	750 	786 	821 	859 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	130 	150 	165 	190 	225 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	580 	580 	580 	580 	580 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	90 	90 	100 	100 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	175 	175 	175 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	300 	350 	350 	350 	350 </seat_post_length></geo></geos>
+</product>
+<product>
+<product_id>14SIRRUSSirrus</product_id>
+<display_name>Sirrus</display_name>
+<description>The Sirrus provides road bike geometry with flat bar handling so you can ride fast on longer rides, but also be stable and quick in town. The 24-speed drivetrain with wide gearing allows top speed with hill climbing capabilities, too.</description>
+<bullets><bullet>A1 Premium Aluminium fully-manipulated frame offers a great ride and versatility; with rack/fender mounts and wide tyre clearance</bullet>
+<bullet>Straight blade steel fork with fender mounts gives you all the durability you need to manage potholes and rough roads</bullet>
+<bullet>Sirrus double-wall, machined alloy rims for strength and reliable braking; plus alloy, sealed cassette hub with stainless spokes</bullet>
+<bullet>Flak Jacket protection and a grooved tread make the Specialized Nimbus tyres perfect for city or open road use</bullet>
+<bullet>Body Geometry Targa gel grips alleviate hand pain and tingling fingers for all-day riding comfort</bullet>
+<bullet>Specialized Body Geometry Targa Sport saddle has front/rear bumpers for durability and ample padding for comfort</bullet></bullets>
+<skus_specs><skus><skus_header>PART NO.	DESCRIPTION	COLOR	SIZE</skus_header>
+<sku>80914-7001	SIRRUS	BLK/GRPH/NEON BLU	XS</sku>
+<sku>80914-7002			S</sku>
+<sku>80914-7003			M</sku>
+<sku>80914-7004			L</sku>
+<sku>80914-7005			XL</sku>
+<sku>80914-7101	SIRRUS	WHT/GRY/ORG	XS</sku>
+<sku>80914-7102			S</sku>
+<sku>80914-7103			M</sku>
+<sku>80914-7104			L</sku>
+<sku>80914-7105			XL</sku></skus>
+<specs_header>SPECS</specs_header>
+<specs><frame>FRAME	Specialized A1 Premium Aluminium, fully-manipulated butted tubing, integrated lower bearing, fender/rack eyelets</frame>
+<fork>FORK	Specialized steel</fork>
+<headset>HEADSET	1-1/8" FSA integrated cartridge lower, external sealed upper bearings</headset>
+<stem>STEM	Alloy, 4-bolt, 20-degree rise, 25.4mm clamp</stem>
+<handlebars>HANDLEBARS	Specialized flat bar, alloy, 6-degree backsweep, 25.4mm</handlebars>
+<tape>TAPE	Specialized Body Geometry Targa, dual compound</tape>
+<front_brake>FRONT BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</front_brake>
+<rear_brake>REAR BRAKE	Die-cast, alloy V-brake, 60mm 1pc. pad, linear pull</rear_brake>
+<brake_levers>BRAKE LEVERS	Alloy V-brake, two-finger, linear pull</brake_levers>
+<front_derailleur>FRONT DERAILLEUR	Shimano FD-M191</front_derailleur>
+<rear_derailleur>REAR DERAILLEUR	Shimano Altus, 8-speed</rear_derailleur>
+<shift_levers>SHIFT LEVERS	Shimano EF-51, EZ Fire</shift_levers>
+<cassette>CASSETTE	Shimano, 8-speed, 11-32</cassette>
+<chain>CHAIN	KMC X8</chain>
+<crankset>CRANKSET	Shimano Altus, 8-speed triple, w/ chainguard</crankset>
+<chainrings>CHAINRINGS	48/38/28, w/ chainguard</chainrings>
+<bottom_bracket>BOTTOM BRACKET	Cartridge bearings, square spindle</bottom_bracket>
+<pedals>PEDALS	Nylon flat</pedals>
+<rims>RIMS	Alloy double-wall, CNC sidewalls, 32h</rims>
+<front_hub>FRONT HUB	Double-sealed, ground race, dual-lock nuts w/ 17mm contact side, 5mm QR</front_hub>
+<rear_hub>REAR HUB	Double-sealed, loose ball, dual-lock nuts</rear_hub>
+<front_tire>FRONT TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, 700x28c</front_tire>
+<rear_tire>REAR TYRE	Specialized Nimbus, 26TPI, wire bead, Flak Jacket protection, 700x28c</rear_tire>
+<inner_tubes>INNER TUBES	Standard Schrader valve</inner_tubes>
+<saddle>SADDLE	Body Geometry Targa Sport, steel rails, 155mm</saddle>
+<seatpost>SEATPOST	Alloy, 2-bolt, 12.5mm offset, 27.2mm</seatpost>
+<seat_binder>SEAT BINDER	Alloy, 31.8mm</seat_binder></specs></skus_specs>
+<colorways><colorway_name>BLK/GRPH/NEON BLU</colorway_name>
+<colorway_name>WHT/GRY/ORG</colorway_name></colorways>
+<images><image href="file:///90914-70_SIR_BLK GRPH NEON BLU.jpg"/>
+<image href="file:///90914-71_SIR_WHT GRY ORG.jpg"/></images>
+<geos><geo_heading><geo_name>SIRRUS A1</geo_name>
+<geo_size>Size	XS	S	M	L	XL</geo_size></geo_heading>
+<geo><seat_tube_length_b_b_center_to_top>Seat-Tube Length, B-B Center to Top (mm)	395 	440 	485 	530 	570 </seat_tube_length_b_b_center_to_top>
+<top_tube_length_horiz>Top-Tube Length, Horizontal (mm)	555 	570 	580 	600 	620 </top_tube_length_horiz>
+<b_b_drop>B-B Drop (mm)	70 	70 	70 	70 	70 </b_b_drop>
+<chain_stay_length>Chain-Stay Length (mm)	445 	445 	445 	445 	445 </chain_stay_length>
+<seat_tube_angle>Seat-Tube Angle (deg)	73.5	73.25	73.5	73 	73 </seat_tube_angle>
+<head_tube_angle>Head-Tube Angle (deg)	70.5	71 	71.5	72 	72 </head_tube_angle>
+<fork_rake>Fork Rake (mm)	51 	51 	51 	51 	51 </fork_rake>
+<trail>Trail (mm)	70 	67 	63 	60 	60 </trail>
+<front_center>Front-Center (mm)	621 	629 	637 	647 	667 </front_center>
+<wheelbase>Wheelbase (mm)	1056 	1065 	1073 	1082 	1103 </wheelbase>
+<stand_over_height>Stand-Over Height (mm)	716 	750 	786 	821 	859 </stand_over_height>
+<head_tube_length>Head-Tube Length (mm)	130 	150 	165 	190 	225 </head_tube_length>
+<handle_bar_width>Handle-Bar Width (mm)	580 	580 	580 	580 	580 </handle_bar_width>
+<stem_length>Stem Length (mm)	75 	90 	90 	100 	100 </stem_length>
+<crank_length>Crank Length (mm)	170 	170 	175 	175 	175 </crank_length>
+<seat_post_length>Seat-Post Length (mm)	300 	350 	350 	350 	350 </seat_post_length></geo></geos>
+</product>
+</products>
+</category>
+</categories>
+</bikes>
+</root>
