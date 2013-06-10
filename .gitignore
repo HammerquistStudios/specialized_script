@@ -1,1 +1,4 @@
-./t
+t/*.indd
+*.swp
+*.idlk
+logs/*
