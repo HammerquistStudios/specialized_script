@@ -1,5 +1,5 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<root>
+<Root>
 <bike>
 <families>
 <family>
@@ -29,12 +29,7 @@
 <what4>WHAT: Specialized Riva saddle and short-reach bars.</what4>
 <why4>WHY: To relieve common rider pressure/pain points while riding.</why4>
 <how4>HOW: The Specialized ergonomically designed, Riva Body Geometry saddle is lab tested to ensure blood flow to sensitive arteries, which alleviates rider discomfort. Short-reach drop bars improve a rider’s position to create a more comfortable, confident position for long rides.</how4></features>
-<images>
-<image href="file:///90014-30_ALL_EXPERT C2_BLK RED.jpg"/>
-<image href="file:///Allez1.jpg"/>
-<image href="file:///Allez2.jpg"/>
-<image href="file:///Allez3.jpg"/></images>
 </family>
 </families>
 </bike>
-</root>
+</Root>

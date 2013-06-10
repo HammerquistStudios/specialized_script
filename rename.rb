@@ -1,6 +1,6 @@
 puts "Renaming files..."
 
-folder_path = "/home/sean/workspace/specialized_script/templates"
+folder_path = File.dirname(__FILE__) + "/templates"
 Dir.glob(folder_path + "/*").sort.each do |f|
     filename = File.basename(f, File.extname(f))
     ary = filename.split('_')
