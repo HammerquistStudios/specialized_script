@@ -1,5 +1,5 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<index>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
 <categories>
 <category>
 <category_id>14Crave</category_id>
@@ -46,4 +46,4 @@
 </products>
 </category>
 </categories>
-</index>
+</root>

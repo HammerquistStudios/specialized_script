@@ -1,5 +1,4 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<Root>
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
 <bike>
 <families>
@@ -31,9 +30,8 @@
 <images>
 <image href="file:///91814-30_JETT_EXPERT 29_BLK FLORED.jpg"/>
 <image href="file:///Jett1.jpg"/>
-<image href="file:///Jett2.jpg"/>></images>
+<image href="file:///Jett2.jpg"/>&gt;</images>
 </family>
 </families>
 </bike>
 </root>
-</Root>
