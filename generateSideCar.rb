@@ -1,6 +1,6 @@
 require 'nokogiri'
 
-SPC_DIR = '/Users/Freelance1/workspace/specialized/brazil/output'
+SPC_DIR = '/Users/Freelance1/workspace/specialized/china/output'
 
 
 builder = Nokogiri::XML::Builder.new(:encoding => 'UTF-8') do |xml|
