@@ -2,3 +2,4 @@ t/*.indd
 *.swp
 *.idlk
 logs/*
+.DS_store
