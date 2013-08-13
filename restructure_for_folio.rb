@@ -58,5 +58,5 @@ end
 
 #generate('poland')
 #generate('czech')
-generate('china')
-#generate('brazil')
+#generate('china')
+generate('frcanada')
