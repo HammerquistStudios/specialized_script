@@ -26,4 +26,14 @@ Creating a sidecar.xml (optional)
 sidecar.xml is a way to organize the articles and order them in the cloud without you having to do it yourself.
 - Configure the paths in generateSidecar.rb
 - Run the ruby file. 'ruby generateSidecar.rb'
+- 
+
+Open Indesign
+- Window -> Folio Builder
+- login to appropriate region
+- Name <Region> 2014 Dealer Book
+- Set options Landscape only & offline
+- Select Import Article
+- Select import multiple
+- When complete - Upload to publisher
 
